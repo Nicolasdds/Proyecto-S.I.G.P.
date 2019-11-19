@@ -1,0 +1,59 @@
+C:\Users\bandicoot\Desktop\SIGPvFinal_20191025\SIGPv2\obj\x86\Debug\S.I.G.P. Hipercode.vbproj.GenerateResource.Cache
+C:\Users\bandicoot\Desktop\SIGPvFinal_20191025\SIGPv2\bin\Debug\S.I.G.P.exe
+C:\Users\bandicoot\Desktop\SIGPvFinal_20191025\SIGPv2\bin\Debug\S.I.G.P.pdb
+C:\Users\bandicoot\Desktop\SIGPvFinal_20191025\SIGPv2\bin\Debug\S.I.G.P.xml
+C:\Users\bandicoot\Desktop\SIGPvFinal_20191025\SIGPv2\obj\x86\Debug\SIGP.FormAbrirRelevamiento.resources
+C:\Users\bandicoot\Desktop\SIGPvFinal_20191025\SIGPv2\obj\x86\Debug\SIGP.FormBuscarMapa.resources
+C:\Users\bandicoot\Desktop\SIGPvFinal_20191025\SIGPv2\obj\x86\Debug\SIGP.FormCalculos.resources
+C:\Users\bandicoot\Desktop\SIGPvFinal_20191025\SIGPv2\obj\x86\Debug\SIGP.FormConsolaGeneral.resources
+C:\Users\bandicoot\Desktop\SIGPvFinal_20191025\SIGPv2\obj\x86\Debug\SIGP.FormCuestionarioLugaresDeTrabajo.resources
+C:\Users\bandicoot\Desktop\SIGPvFinal_20191025\SIGPv2\obj\x86\Debug\SIGP.FormCuestionarios.resources
+C:\Users\bandicoot\Desktop\SIGPvFinal_20191025\SIGPv2\obj\x86\Debug\SIGP.FormEmpresa.resources
+C:\Users\bandicoot\Desktop\SIGPvFinal_20191025\SIGPv2\obj\x86\Debug\SIGP.FormGestionPrevencionistas.resources
+C:\Users\bandicoot\Desktop\SIGPvFinal_20191025\SIGPv2\obj\x86\Debug\SIGP.FormInspecciones.resources
+C:\Users\bandicoot\Desktop\SIGPvFinal_20191025\SIGPv2\obj\x86\Debug\SIGP.FormInventario.resources
+C:\Users\bandicoot\Desktop\SIGPvFinal_20191025\SIGPv2\obj\x86\Debug\SIGP.FormLogin.resources
+C:\Users\bandicoot\Desktop\SIGPvFinal_20191025\SIGPv2\obj\x86\Debug\SIGP.FormMapas.resources
+C:\Users\bandicoot\Desktop\SIGPvFinal_20191025\SIGPv2\obj\x86\Debug\SIGP.FormNavegador.resources
+C:\Users\bandicoot\Desktop\SIGPvFinal_20191025\SIGPv2\obj\x86\Debug\SIGP.FormNuevoContrato.resources
+C:\Users\bandicoot\Desktop\SIGPvFinal_20191025\SIGPv2\obj\x86\Debug\SIGP.FormNuevoRelevamiento.resources
+C:\Users\bandicoot\Desktop\SIGPvFinal_20191025\SIGPv2\obj\x86\Debug\SIGP.FormNuevoTrabajador.resources
+C:\Users\bandicoot\Desktop\SIGPvFinal_20191025\SIGPv2\obj\x86\Debug\SIGP.FormPlanDeContingencia.resources
+C:\Users\bandicoot\Desktop\SIGPvFinal_20191025\SIGPv2\obj\x86\Debug\SIGP.FormPrincipal.resources
+C:\Users\bandicoot\Desktop\SIGPvFinal_20191025\SIGPv2\obj\x86\Debug\SIGP.FormReporte.resources
+C:\Users\bandicoot\Desktop\SIGPvFinal_20191025\SIGPv2\obj\x86\Debug\SIGP.FormUsuarios.resources
+C:\Users\bandicoot\Desktop\SIGPvFinal_20191025\SIGPv2\obj\x86\Debug\SIGP.Resources.resources
+C:\Users\bandicoot\Desktop\SIGPvFinal_20191025\SIGPv2\obj\x86\Debug\SIGP.FormReporteGral.resources
+C:\Users\bandicoot\Desktop\SIGPvFinal_20191025\SIGPv2\obj\x86\Debug\S.I.G.P.exe
+C:\Users\bandicoot\Desktop\SIGPvFinal_20191025\SIGPv2\obj\x86\Debug\S.I.G.P.xml
+C:\Users\bandicoot\Desktop\SIGPvFinal_20191025\SIGPv2\obj\x86\Debug\S.I.G.P.pdb
+C:\Users\Lenovo\Desktop\A Grabar\Programacíon\SIGPvFinal_20191025\SIGPv2\obj\x86\Debug\S.I.G.P.exe
+C:\Users\Lenovo\Desktop\A Grabar\Programacíon\SIGPvFinal_20191025\SIGPv2\obj\x86\Debug\S.I.G.P.xml
+C:\Users\Lenovo\Desktop\A Grabar\Programacíon\SIGPvFinal_20191025\SIGPv2\obj\x86\Debug\S.I.G.P.pdb
+C:\Users\Lenovo\Desktop\A Grabar\Programacíon\SIGPvFinal_20191025\SIGPv2\obj\x86\Debug\SIGP.FormAbrirRelevamiento.resources
+C:\Users\Lenovo\Desktop\A Grabar\Programacíon\SIGPvFinal_20191025\SIGPv2\obj\x86\Debug\SIGP.FormBuscarMapa.resources
+C:\Users\Lenovo\Desktop\A Grabar\Programacíon\SIGPvFinal_20191025\SIGPv2\obj\x86\Debug\SIGP.FormCalculos.resources
+C:\Users\Lenovo\Desktop\A Grabar\Programacíon\SIGPvFinal_20191025\SIGPv2\obj\x86\Debug\SIGP.FormConsolaGeneral.resources
+C:\Users\Lenovo\Desktop\A Grabar\Programacíon\SIGPvFinal_20191025\SIGPv2\obj\x86\Debug\SIGP.FormCuestionarioLugaresDeTrabajo.resources
+C:\Users\Lenovo\Desktop\A Grabar\Programacíon\SIGPvFinal_20191025\SIGPv2\obj\x86\Debug\SIGP.FormCuestionarios.resources
+C:\Users\Lenovo\Desktop\A Grabar\Programacíon\SIGPvFinal_20191025\SIGPv2\obj\x86\Debug\SIGP.FormEmpresa.resources
+C:\Users\Lenovo\Desktop\A Grabar\Programacíon\SIGPvFinal_20191025\SIGPv2\obj\x86\Debug\SIGP.FormGestionPrevencionistas.resources
+C:\Users\Lenovo\Desktop\A Grabar\Programacíon\SIGPvFinal_20191025\SIGPv2\obj\x86\Debug\SIGP.FormInspecciones.resources
+C:\Users\Lenovo\Desktop\A Grabar\Programacíon\SIGPvFinal_20191025\SIGPv2\obj\x86\Debug\SIGP.FormInventario.resources
+C:\Users\Lenovo\Desktop\A Grabar\Programacíon\SIGPvFinal_20191025\SIGPv2\obj\x86\Debug\SIGP.FormLogin.resources
+C:\Users\Lenovo\Desktop\A Grabar\Programacíon\SIGPvFinal_20191025\SIGPv2\obj\x86\Debug\SIGP.FormMapas.resources
+C:\Users\Lenovo\Desktop\A Grabar\Programacíon\SIGPvFinal_20191025\SIGPv2\obj\x86\Debug\SIGP.FormNavegador.resources
+C:\Users\Lenovo\Desktop\A Grabar\Programacíon\SIGPvFinal_20191025\SIGPv2\obj\x86\Debug\SIGP.FormNuevoContrato.resources
+C:\Users\Lenovo\Desktop\A Grabar\Programacíon\SIGPvFinal_20191025\SIGPv2\obj\x86\Debug\SIGP.FormNuevoRelevamiento.resources
+C:\Users\Lenovo\Desktop\A Grabar\Programacíon\SIGPvFinal_20191025\SIGPv2\obj\x86\Debug\SIGP.FormNuevoTrabajador.resources
+C:\Users\Lenovo\Desktop\A Grabar\Programacíon\SIGPvFinal_20191025\SIGPv2\obj\x86\Debug\SIGP.FormPlanDeContingencia.resources
+C:\Users\Lenovo\Desktop\A Grabar\Programacíon\SIGPvFinal_20191025\SIGPv2\obj\x86\Debug\SIGP.FormPrincipal.resources
+C:\Users\Lenovo\Desktop\A Grabar\Programacíon\SIGPvFinal_20191025\SIGPv2\obj\x86\Debug\SIGP.FormReporte.resources
+C:\Users\Lenovo\Desktop\A Grabar\Programacíon\SIGPvFinal_20191025\SIGPv2\obj\x86\Debug\SIGP.FormUsuarios.resources
+C:\Users\Lenovo\Desktop\A Grabar\Programacíon\SIGPvFinal_20191025\SIGPv2\obj\x86\Debug\SIGP.Resources.resources
+C:\Users\Lenovo\Desktop\A Grabar\Programacíon\SIGPvFinal_20191025\SIGPv2\obj\x86\Debug\SIGP.FormReporteGral.resources
+C:\Users\Lenovo\Desktop\A Grabar\Programacíon\SIGPvFinal_20191025\SIGPv2\obj\x86\Debug\S.I.G.P. Hipercode.vbproj.GenerateResource.Cache
+C:\Users\Lenovo\Desktop\A Grabar\Programacíon\SIGPvFinal_20191025\SIGPv2\bin\Debug\S.I.G.P.exe
+C:\Users\Lenovo\Desktop\A Grabar\Programacíon\SIGPvFinal_20191025\SIGPv2\bin\Debug\S.I.G.P.pdb
+C:\Users\Lenovo\Desktop\A Grabar\Programacíon\SIGPvFinal_20191025\SIGPv2\bin\Debug\S.I.G.P.xml
+C:\Users\Lenovo\Desktop\A Grabar\Programacíon\SIGPvFinal_20191025\SIGPv2\obj\x86\Debug\SIGP.FormManual.resources
