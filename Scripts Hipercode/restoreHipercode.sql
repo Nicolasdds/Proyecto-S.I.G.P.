@@ -1,0 +1,25 @@
+CONNECT TO 'hipercode@demo_on' USER 'root'  USING 'root';
+
+load from "empresa.unl" insert into empresa;
+load from "prevencionista.unl" insert into prevencionista;
+load from "trabajador.unl" insert into trabajador;
+load from "relevamiento.unl" insert into relevamiento;
+load from "reporte.unl" insert into reporte;
+load from "cuestionario.unl" insert into cuestionario;
+load from "pregunta.unl" insert into pregunta;
+load from "mapa.unl" insert into mapa;
+load from "icono.unl" insert into icono;
+load from "calculo.unl" insert into calculo;
+load from "inventario.unl" insert into inventario;
+load from "plan.unl" insert into plan;
+load from "inspeccion.unl" insert into inspeccion;
+load from "observacion.unl" insert into observacion;
+load from "contrata.unl" insert into contrata;
+load from "tiene.unl" insert into tiene;
+load from "hace.unl" insert into hace;
+load from "a.unl" insert into a;
+load from "genera.unl" insert into genera;
+load from "responde.unl" insert into responde;
+load from "contiene.unl" insert into contiene;
+load from "realiza.unl" insert into realiza;
+load from "sobre.unl" insert into sobre;
