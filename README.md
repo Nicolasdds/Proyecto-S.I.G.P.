@@ -1,2 +1,2 @@
-# Proyecto-S.I.G.P.
-Proyecto Orientado a la gestión del Prevencionismo.
+# Proyecto-S.I.G.P. Hipercode-2019
+Proyecto orientado a la gestión del prevencionismo.
