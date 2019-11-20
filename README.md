@@ -1,7 +1,7 @@
 <p align="center"><img src="https://i.imgur.com/ITgTRHU.png" width="350"></p>
 <H3 align="center"><b>👷‍♂️ <br/>S.I.G.P</H1>
-Un [proyecto](http://www.iticetp.edu.uy/2/index.php/2-uncategorised/31-pautas-proyecto-3-emt-informatica-v2017 "proyecto") increíble, propuesto por el [Instituto Tecnológico de Informática](http://www.iticetp.edu.uy/2/index.php "Instituto Tecnológico de Informática") en Uruguay.
-  
+Un [proyecto](http://www.iticetp.edu.uy/2/index.php/2-uncategorised/31-pautas-proyecto-3-emt-informatica-v2017 "proyecto") increíble, propuesto por el Instituto Tecnológico de Informática [ITI](http://www.iticetp.edu.uy/2/index.php "ITI") en Uruguay.
+
 ####Aspectos Fundamentales.
 * Brindarle una solución informática integral al prevencionista.
 * Sistema de software de altísima calidad.
@@ -20,3 +20,5 @@ mencionadas, propone el estudio y la implementación teórica de una empresa pro
 ####Caracteristicas Técnicas.
 >Se implementa el lenguaje de programación Visual Basic .NET para la realización del
 sistema S.I.G.P., el motor de Base de Datos Informix, Packet Tracer para el diseño de la infraestructura de redes, promoviendo el uso de sistemas operativos como Windows y Linux para que trabajen de manera conjunta.
+
+
