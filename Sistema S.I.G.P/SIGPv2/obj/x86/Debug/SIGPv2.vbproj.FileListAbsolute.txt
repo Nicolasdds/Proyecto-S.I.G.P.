@@ -1,0 +1,1549 @@
+D:\Documentos\Visual Studio 2010\Projects\SIGPv2\SIGPv2\bin\Debug\SIGPv2.exe
+D:\Documentos\Visual Studio 2010\Projects\SIGPv2\SIGPv2\bin\Debug\SIGPv2.pdb
+D:\Documentos\Visual Studio 2010\Projects\SIGPv2\SIGPv2\bin\Debug\SIGPv2.xml
+D:\Documentos\Visual Studio 2010\Projects\SIGPv2\SIGPv2\obj\x86\Debug\SIGPv2.FormEmpresa.resources
+D:\Documentos\Visual Studio 2010\Projects\SIGPv2\SIGPv2\obj\x86\Debug\SIGPv2.FormLogin.resources
+D:\Documentos\Visual Studio 2010\Projects\SIGPv2\SIGPv2\obj\x86\Debug\SIGPv2.FormPrincipal.resources
+D:\Documentos\Visual Studio 2010\Projects\SIGPv2\SIGPv2\obj\x86\Debug\SIGPv2.Resources.resources
+D:\Documentos\Visual Studio 2010\Projects\SIGPv2\SIGPv2\obj\x86\Debug\SIGPv2.vbproj.GenerateResource.Cache
+D:\Documentos\Visual Studio 2010\Projects\SIGPv2\SIGPv2\obj\x86\Debug\SIGPv2.exe
+D:\Documentos\Visual Studio 2010\Projects\SIGPv2\SIGPv2\obj\x86\Debug\SIGPv2.xml
+D:\Documentos\Visual Studio 2010\Projects\SIGPv2\SIGPv2\obj\x86\Debug\SIGPv2.pdb
+D:\Documentos\Visual Studio 2010\Projects\SIGPv2\SIGPv2\obj\x86\Debug\SIGPv2.FormBuscarMapa.resources
+D:\Documentos\Visual Studio 2010\Projects\SIGPv2\SIGPv2\obj\x86\Debug\SIGPv2.FormCalculos.resources
+D:\Documentos\Visual Studio 2010\Projects\SIGPv2\SIGPv2\obj\x86\Debug\SIGPv2.FormCuestionarios.resources
+D:\Documentos\Visual Studio 2010\Projects\SIGPv2\SIGPv2\obj\x86\Debug\SIGPv2.FormIncendios.resources
+D:\Documentos\Visual Studio 2010\Projects\SIGPv2\SIGPv2\obj\x86\Debug\SIGPv2.FormInspeccion.resources
+D:\Documentos\Visual Studio 2010\Projects\SIGPv2\SIGPv2\obj\x86\Debug\SIGPv2.FormInventario.resources
+D:\Documentos\Visual Studio 2010\Projects\SIGPv2\SIGPv2\obj\x86\Debug\SIGPv2.FormLugaresDeTrabajo.resources
+D:\Documentos\Visual Studio 2010\Projects\SIGPv2\SIGPv2\obj\x86\Debug\SIGPv2.FormReporte.resources
+D:\Documentos\Visual Studio 2010\Projects\SIGPv2\SIGPv2\obj\x86\Debug\SIGPv2.FormMapa.resources
+D:\Documentos\Visual Studio 2010\Projects\SIGPv2\SIGPv2\obj\x86\Debug\SIGPv2.FormMaquinas.resources
+D:\Documentos\Visual Studio 2010\Projects\SIGPv2\SIGPv2\obj\x86\Debug\SIGPv2.FormNavegador.resources
+D:\Documentos\Visual Studio 2010\Projects\SIGPv2\SIGPv2\obj\x86\Debug\SIGPv2.FormNuevoPrevencionista.resources
+D:\Documentos\Visual Studio 2010\Projects\SIGPv2\SIGPv2\obj\x86\Debug\SIGPv2.FormNuevoTrabajador.resources
+D:\Documentos\Visual Studio 2010\Projects\SIGPv2\SIGPv2\obj\x86\Debug\SIGPv2.FormPlanDeContingencia.resources
+D:\Documentos\Visual Studio 2010\Projects\SIGPv2\SIGPv2\obj\x86\Debug\SIGPv2.FormTablaVC.resources
+D:\Documentos\Visual Studio 2010\Projects\SIGPv2\SIGPv2\obj\x86\Debug\SIGPv2.FormTablaVE.resources
+D:\Documentos\Visual Studio 2010\Projects\SIGPv2\SIGPv2\obj\x86\Debug\SIGPv2.FormTablaVP.resources
+D:\Documentos\Visual Studio 2010\Projects\SIGPv2\SIGPv2\obj\x86\Debug\SIGPv2.FormUsuarios.resources
+D:\Documentos\Visual Studio 2010\Projects\SIGPv2\SIGPv2\obj\x86\Debug\SIGPv2.FormAbrirRelevamiento.resources
+D:\Documentos\Visual Studio 2010\Projects\SIGPv2\SIGPv2\obj\x86\Debug\SIGPv2.FormNuevoRelevamiento.resources
+D:\Documentos\SIGPv2_REVISAR_CONEXION\SIGPv2\obj\x86\Debug\SIGPv2.exe
+D:\Documentos\SIGPv2_REVISAR_CONEXION\SIGPv2\obj\x86\Debug\SIGPv2.xml
+D:\Documentos\SIGPv2_REVISAR_CONEXION\SIGPv2\obj\x86\Debug\SIGPv2.pdb
+G:\SIGPv2_REVISAR_CONEXION\SIGPv2\obj\x86\Debug\SIGPv2.exe
+G:\SIGPv2_REVISAR_CONEXION\SIGPv2\obj\x86\Debug\SIGPv2.xml
+G:\SIGPv2_REVISAR_CONEXION\SIGPv2\obj\x86\Debug\SIGPv2.pdb
+G:\SIGPv2_REVISAR_CONEXION\SIGPv2\bin\Debug\SIGPv2.exe
+G:\SIGPv2_REVISAR_CONEXION\SIGPv2\bin\Debug\SIGPv2.pdb
+G:\SIGPv2_REVISAR_CONEXION\SIGPv2\bin\Debug\SIGPv2.xml
+G:\SIGPv2_REVISAR_CONEXION\SIGPv2\obj\x86\Debug\SIGPv2.FormAbrirRelevamiento.resources
+G:\SIGPv2_REVISAR_CONEXION\SIGPv2\obj\x86\Debug\SIGPv2.FormBuscarMapa.resources
+G:\SIGPv2_REVISAR_CONEXION\SIGPv2\obj\x86\Debug\SIGPv2.FormCalculos.resources
+G:\SIGPv2_REVISAR_CONEXION\SIGPv2\obj\x86\Debug\SIGPv2.FormCuestionarios.resources
+G:\SIGPv2_REVISAR_CONEXION\SIGPv2\obj\x86\Debug\SIGPv2.FormEmpresa.resources
+G:\SIGPv2_REVISAR_CONEXION\SIGPv2\obj\x86\Debug\SIGPv2.FormIncendios.resources
+G:\SIGPv2_REVISAR_CONEXION\SIGPv2\obj\x86\Debug\SIGPv2.FormInspeccion.resources
+G:\SIGPv2_REVISAR_CONEXION\SIGPv2\obj\x86\Debug\SIGPv2.FormInventario.resources
+G:\SIGPv2_REVISAR_CONEXION\SIGPv2\obj\x86\Debug\SIGPv2.FormLogin.resources
+G:\SIGPv2_REVISAR_CONEXION\SIGPv2\obj\x86\Debug\SIGPv2.FormLugaresDeTrabajo.resources
+G:\SIGPv2_REVISAR_CONEXION\SIGPv2\obj\x86\Debug\SIGPv2.FormMapa.resources
+G:\SIGPv2_REVISAR_CONEXION\SIGPv2\obj\x86\Debug\SIGPv2.FormMaquinas.resources
+G:\SIGPv2_REVISAR_CONEXION\SIGPv2\obj\x86\Debug\SIGPv2.FormNavegador.resources
+G:\SIGPv2_REVISAR_CONEXION\SIGPv2\obj\x86\Debug\SIGPv2.FormNuevoPrevencionista.resources
+G:\SIGPv2_REVISAR_CONEXION\SIGPv2\obj\x86\Debug\SIGPv2.FormNuevoRelevamiento.resources
+G:\SIGPv2_REVISAR_CONEXION\SIGPv2\obj\x86\Debug\SIGPv2.FormNuevoTrabajador.resources
+G:\SIGPv2_REVISAR_CONEXION\SIGPv2\obj\x86\Debug\SIGPv2.FormPlanDeContingencia.resources
+G:\SIGPv2_REVISAR_CONEXION\SIGPv2\obj\x86\Debug\SIGPv2.FormPrincipal.resources
+G:\SIGPv2_REVISAR_CONEXION\SIGPv2\obj\x86\Debug\SIGPv2.FormReporte.resources
+G:\SIGPv2_REVISAR_CONEXION\SIGPv2\obj\x86\Debug\SIGPv2.FormTablaVC.resources
+G:\SIGPv2_REVISAR_CONEXION\SIGPv2\obj\x86\Debug\SIGPv2.FormTablaVE.resources
+G:\SIGPv2_REVISAR_CONEXION\SIGPv2\obj\x86\Debug\SIGPv2.FormTablaVP.resources
+G:\SIGPv2_REVISAR_CONEXION\SIGPv2\obj\x86\Debug\SIGPv2.FormUsuarios.resources
+G:\SIGPv2_REVISAR_CONEXION\SIGPv2\obj\x86\Debug\SIGPv2.Resources.resources
+G:\SIGPv2_REVISAR_CONEXION\SIGPv2\obj\x86\Debug\SIGPv2.vbproj.GenerateResource.Cache
+F:\SIGPv2_REVISAR_CONEXION\SIGPv2\obj\x86\Debug\SIGPv2.exe
+F:\SIGPv2_REVISAR_CONEXION\SIGPv2\obj\x86\Debug\SIGPv2.xml
+F:\SIGPv2_REVISAR_CONEXION\SIGPv2\obj\x86\Debug\SIGPv2.pdb
+F:\SIGPv2_REVISAR_CONEXION\SIGPv2\bin\Debug\SIGPv2.exe
+F:\SIGPv2_REVISAR_CONEXION\SIGPv2\bin\Debug\SIGPv2.pdb
+F:\SIGPv2_REVISAR_CONEXION\SIGPv2\bin\Debug\SIGPv2.xml
+F:\SIGPv2_REVISAR_CONEXION\SIGPv2\obj\x86\Debug\SIGPv2.FormAbrirRelevamiento.resources
+F:\SIGPv2_REVISAR_CONEXION\SIGPv2\obj\x86\Debug\SIGPv2.FormBuscarMapa.resources
+F:\SIGPv2_REVISAR_CONEXION\SIGPv2\obj\x86\Debug\SIGPv2.FormCalculos.resources
+F:\SIGPv2_REVISAR_CONEXION\SIGPv2\obj\x86\Debug\SIGPv2.FormCuestionarios.resources
+F:\SIGPv2_REVISAR_CONEXION\SIGPv2\obj\x86\Debug\SIGPv2.FormEmpresa.resources
+F:\SIGPv2_REVISAR_CONEXION\SIGPv2\obj\x86\Debug\SIGPv2.FormIncendios.resources
+F:\SIGPv2_REVISAR_CONEXION\SIGPv2\obj\x86\Debug\SIGPv2.FormInspeccion.resources
+F:\SIGPv2_REVISAR_CONEXION\SIGPv2\obj\x86\Debug\SIGPv2.FormInventario.resources
+F:\SIGPv2_REVISAR_CONEXION\SIGPv2\obj\x86\Debug\SIGPv2.FormLogin.resources
+F:\SIGPv2_REVISAR_CONEXION\SIGPv2\obj\x86\Debug\SIGPv2.FormLugaresDeTrabajo.resources
+F:\SIGPv2_REVISAR_CONEXION\SIGPv2\obj\x86\Debug\SIGPv2.FormMapa.resources
+F:\SIGPv2_REVISAR_CONEXION\SIGPv2\obj\x86\Debug\SIGPv2.FormMaquinas.resources
+F:\SIGPv2_REVISAR_CONEXION\SIGPv2\obj\x86\Debug\SIGPv2.FormNavegador.resources
+F:\SIGPv2_REVISAR_CONEXION\SIGPv2\obj\x86\Debug\SIGPv2.FormNuevoPrevencionista.resources
+F:\SIGPv2_REVISAR_CONEXION\SIGPv2\obj\x86\Debug\SIGPv2.FormNuevoRelevamiento.resources
+F:\SIGPv2_REVISAR_CONEXION\SIGPv2\obj\x86\Debug\SIGPv2.FormNuevoTrabajador.resources
+F:\SIGPv2_REVISAR_CONEXION\SIGPv2\obj\x86\Debug\SIGPv2.FormPlanDeContingencia.resources
+F:\SIGPv2_REVISAR_CONEXION\SIGPv2\obj\x86\Debug\SIGPv2.FormPrincipal.resources
+F:\SIGPv2_REVISAR_CONEXION\SIGPv2\obj\x86\Debug\SIGPv2.FormReporte.resources
+F:\SIGPv2_REVISAR_CONEXION\SIGPv2\obj\x86\Debug\SIGPv2.FormTablaVC.resources
+F:\SIGPv2_REVISAR_CONEXION\SIGPv2\obj\x86\Debug\SIGPv2.FormTablaVE.resources
+F:\SIGPv2_REVISAR_CONEXION\SIGPv2\obj\x86\Debug\SIGPv2.FormTablaVP.resources
+F:\SIGPv2_REVISAR_CONEXION\SIGPv2\obj\x86\Debug\SIGPv2.FormUsuarios.resources
+F:\SIGPv2_REVISAR_CONEXION\SIGPv2\obj\x86\Debug\SIGPv2.Resources.resources
+F:\SIGPv2_REVISAR_CONEXION\SIGPv2\obj\x86\Debug\SIGPv2.vbproj.GenerateResource.Cache
+C:\Users\Gaston Machado\Desktop\SEGUNDA ENTREGA PROYECTO\SIGPv2_REVISAR_CONEXION\SIGPv2\obj\x86\Debug\SIGPv2.exe
+C:\Users\Gaston Machado\Desktop\SEGUNDA ENTREGA PROYECTO\SIGPv2_REVISAR_CONEXION\SIGPv2\obj\x86\Debug\SIGPv2.xml
+C:\Users\Gaston Machado\Desktop\SEGUNDA ENTREGA PROYECTO\SIGPv2_REVISAR_CONEXION\SIGPv2\obj\x86\Debug\SIGPv2.pdb
+C:\Users\Gaston Machado\Desktop\SEGUNDA ENTREGA PROYECTO\SIGPv2_REVISAR_CONEXION\SIGPv2\bin\Debug\SIGPv2.exe
+C:\Users\Gaston Machado\Desktop\SEGUNDA ENTREGA PROYECTO\SIGPv2_REVISAR_CONEXION\SIGPv2\bin\Debug\SIGPv2.pdb
+C:\Users\Gaston Machado\Desktop\SEGUNDA ENTREGA PROYECTO\SIGPv2_REVISAR_CONEXION\SIGPv2\bin\Debug\SIGPv2.xml
+C:\Users\Gaston Machado\Desktop\SEGUNDA ENTREGA PROYECTO\SIGPv2_REVISAR_CONEXION\SIGPv2\obj\x86\Debug\SIGPv2.FormAbrirRelevamiento.resources
+C:\Users\Gaston Machado\Desktop\SEGUNDA ENTREGA PROYECTO\SIGPv2_REVISAR_CONEXION\SIGPv2\obj\x86\Debug\SIGPv2.FormBuscarMapa.resources
+C:\Users\Gaston Machado\Desktop\SEGUNDA ENTREGA PROYECTO\SIGPv2_REVISAR_CONEXION\SIGPv2\obj\x86\Debug\SIGPv2.FormCalculos.resources
+C:\Users\Gaston Machado\Desktop\SEGUNDA ENTREGA PROYECTO\SIGPv2_REVISAR_CONEXION\SIGPv2\obj\x86\Debug\SIGPv2.FormCuestionarios.resources
+C:\Users\Gaston Machado\Desktop\SEGUNDA ENTREGA PROYECTO\SIGPv2_REVISAR_CONEXION\SIGPv2\obj\x86\Debug\SIGPv2.FormEmpresa.resources
+C:\Users\Gaston Machado\Desktop\SEGUNDA ENTREGA PROYECTO\SIGPv2_REVISAR_CONEXION\SIGPv2\obj\x86\Debug\SIGPv2.FormIncendios.resources
+C:\Users\Gaston Machado\Desktop\SEGUNDA ENTREGA PROYECTO\SIGPv2_REVISAR_CONEXION\SIGPv2\obj\x86\Debug\SIGPv2.FormInspeccion.resources
+C:\Users\Gaston Machado\Desktop\SEGUNDA ENTREGA PROYECTO\SIGPv2_REVISAR_CONEXION\SIGPv2\obj\x86\Debug\SIGPv2.FormInventario.resources
+C:\Users\Gaston Machado\Desktop\SEGUNDA ENTREGA PROYECTO\SIGPv2_REVISAR_CONEXION\SIGPv2\obj\x86\Debug\SIGPv2.FormLogin.resources
+C:\Users\Gaston Machado\Desktop\SEGUNDA ENTREGA PROYECTO\SIGPv2_REVISAR_CONEXION\SIGPv2\obj\x86\Debug\SIGPv2.FormLugaresDeTrabajo.resources
+C:\Users\Gaston Machado\Desktop\SEGUNDA ENTREGA PROYECTO\SIGPv2_REVISAR_CONEXION\SIGPv2\obj\x86\Debug\SIGPv2.FormMapa.resources
+C:\Users\Gaston Machado\Desktop\SEGUNDA ENTREGA PROYECTO\SIGPv2_REVISAR_CONEXION\SIGPv2\obj\x86\Debug\SIGPv2.FormMaquinas.resources
+C:\Users\Gaston Machado\Desktop\SEGUNDA ENTREGA PROYECTO\SIGPv2_REVISAR_CONEXION\SIGPv2\obj\x86\Debug\SIGPv2.FormNavegador.resources
+C:\Users\Gaston Machado\Desktop\SEGUNDA ENTREGA PROYECTO\SIGPv2_REVISAR_CONEXION\SIGPv2\obj\x86\Debug\SIGPv2.FormNuevoPrevencionista.resources
+C:\Users\Gaston Machado\Desktop\SEGUNDA ENTREGA PROYECTO\SIGPv2_REVISAR_CONEXION\SIGPv2\obj\x86\Debug\SIGPv2.FormNuevoRelevamiento.resources
+C:\Users\Gaston Machado\Desktop\SEGUNDA ENTREGA PROYECTO\SIGPv2_REVISAR_CONEXION\SIGPv2\obj\x86\Debug\SIGPv2.FormNuevoTrabajador.resources
+C:\Users\Gaston Machado\Desktop\SEGUNDA ENTREGA PROYECTO\SIGPv2_REVISAR_CONEXION\SIGPv2\obj\x86\Debug\SIGPv2.FormPlanDeContingencia.resources
+C:\Users\Gaston Machado\Desktop\SEGUNDA ENTREGA PROYECTO\SIGPv2_REVISAR_CONEXION\SIGPv2\obj\x86\Debug\SIGPv2.FormPrincipal.resources
+C:\Users\Gaston Machado\Desktop\SEGUNDA ENTREGA PROYECTO\SIGPv2_REVISAR_CONEXION\SIGPv2\obj\x86\Debug\SIGPv2.FormReporte.resources
+C:\Users\Gaston Machado\Desktop\SEGUNDA ENTREGA PROYECTO\SIGPv2_REVISAR_CONEXION\SIGPv2\obj\x86\Debug\SIGPv2.FormTablaVC.resources
+C:\Users\Gaston Machado\Desktop\SEGUNDA ENTREGA PROYECTO\SIGPv2_REVISAR_CONEXION\SIGPv2\obj\x86\Debug\SIGPv2.FormTablaVE.resources
+C:\Users\Gaston Machado\Desktop\SEGUNDA ENTREGA PROYECTO\SIGPv2_REVISAR_CONEXION\SIGPv2\obj\x86\Debug\SIGPv2.FormTablaVP.resources
+C:\Users\Gaston Machado\Desktop\SEGUNDA ENTREGA PROYECTO\SIGPv2_REVISAR_CONEXION\SIGPv2\obj\x86\Debug\SIGPv2.FormUsuarios.resources
+C:\Users\Gaston Machado\Desktop\SEGUNDA ENTREGA PROYECTO\SIGPv2_REVISAR_CONEXION\SIGPv2\obj\x86\Debug\SIGPv2.Resources.resources
+C:\Users\Gaston Machado\Desktop\SEGUNDA ENTREGA PROYECTO\SIGPv2_REVISAR_CONEXION\SIGPv2\obj\x86\Debug\SIGPv2.vbproj.GenerateResource.Cache
+C:\Users\Lenovo\Desktop\SIGPv2_REVISAR_CONEXION_Solucionado\SIGPv2\obj\x86\Debug\SIGPv2.exe
+C:\Users\Lenovo\Desktop\SIGPv2_REVISAR_CONEXION_Solucionado\SIGPv2\obj\x86\Debug\SIGPv2.xml
+C:\Users\Lenovo\Desktop\SIGPv2_REVISAR_CONEXION_Solucionado\SIGPv2\obj\x86\Debug\SIGPv2.pdb
+C:\Users\Lenovo\Desktop\SIGPv2_REVISAR_CONEXION_Solucionado\SIGPv2\bin\Debug\SIGPv2.exe
+C:\Users\Lenovo\Desktop\SIGPv2_REVISAR_CONEXION_Solucionado\SIGPv2\bin\Debug\SIGPv2.pdb
+C:\Users\Lenovo\Desktop\SIGPv2_REVISAR_CONEXION_Solucionado\SIGPv2\bin\Debug\SIGPv2.xml
+C:\Users\Lenovo\Desktop\SIGPv2_REVISAR_CONEXION_Solucionado\SIGPv2\obj\x86\Debug\SIGPv2.FormAbrirRelevamiento.resources
+C:\Users\Lenovo\Desktop\SIGPv2_REVISAR_CONEXION_Solucionado\SIGPv2\obj\x86\Debug\SIGPv2.FormBuscarMapa.resources
+C:\Users\Lenovo\Desktop\SIGPv2_REVISAR_CONEXION_Solucionado\SIGPv2\obj\x86\Debug\SIGPv2.FormCalculos.resources
+C:\Users\Lenovo\Desktop\SIGPv2_REVISAR_CONEXION_Solucionado\SIGPv2\obj\x86\Debug\SIGPv2.FormCuestionarios.resources
+C:\Users\Lenovo\Desktop\SIGPv2_REVISAR_CONEXION_Solucionado\SIGPv2\obj\x86\Debug\SIGPv2.FormEmpresa.resources
+C:\Users\Lenovo\Desktop\SIGPv2_REVISAR_CONEXION_Solucionado\SIGPv2\obj\x86\Debug\SIGPv2.FormIncendios.resources
+C:\Users\Lenovo\Desktop\SIGPv2_REVISAR_CONEXION_Solucionado\SIGPv2\obj\x86\Debug\SIGPv2.FormInspeccion.resources
+C:\Users\Lenovo\Desktop\SIGPv2_REVISAR_CONEXION_Solucionado\SIGPv2\obj\x86\Debug\SIGPv2.FormInventario.resources
+C:\Users\Lenovo\Desktop\SIGPv2_REVISAR_CONEXION_Solucionado\SIGPv2\obj\x86\Debug\SIGPv2.FormLogin.resources
+C:\Users\Lenovo\Desktop\SIGPv2_REVISAR_CONEXION_Solucionado\SIGPv2\obj\x86\Debug\SIGPv2.FormLugaresDeTrabajo.resources
+C:\Users\Lenovo\Desktop\SIGPv2_REVISAR_CONEXION_Solucionado\SIGPv2\obj\x86\Debug\SIGPv2.FormMapa.resources
+C:\Users\Lenovo\Desktop\SIGPv2_REVISAR_CONEXION_Solucionado\SIGPv2\obj\x86\Debug\SIGPv2.FormMaquinas.resources
+C:\Users\Lenovo\Desktop\SIGPv2_REVISAR_CONEXION_Solucionado\SIGPv2\obj\x86\Debug\SIGPv2.FormNavegador.resources
+C:\Users\Lenovo\Desktop\SIGPv2_REVISAR_CONEXION_Solucionado\SIGPv2\obj\x86\Debug\SIGPv2.FormNuevoPrevencionista.resources
+C:\Users\Lenovo\Desktop\SIGPv2_REVISAR_CONEXION_Solucionado\SIGPv2\obj\x86\Debug\SIGPv2.FormNuevoRelevamiento.resources
+C:\Users\Lenovo\Desktop\SIGPv2_REVISAR_CONEXION_Solucionado\SIGPv2\obj\x86\Debug\SIGPv2.FormNuevoTrabajador.resources
+C:\Users\Lenovo\Desktop\SIGPv2_REVISAR_CONEXION_Solucionado\SIGPv2\obj\x86\Debug\SIGPv2.FormPlanDeContingencia.resources
+C:\Users\Lenovo\Desktop\SIGPv2_REVISAR_CONEXION_Solucionado\SIGPv2\obj\x86\Debug\SIGPv2.FormPrincipal.resources
+C:\Users\Lenovo\Desktop\SIGPv2_REVISAR_CONEXION_Solucionado\SIGPv2\obj\x86\Debug\SIGPv2.FormReporte.resources
+C:\Users\Lenovo\Desktop\SIGPv2_REVISAR_CONEXION_Solucionado\SIGPv2\obj\x86\Debug\SIGPv2.FormTablaVC.resources
+C:\Users\Lenovo\Desktop\SIGPv2_REVISAR_CONEXION_Solucionado\SIGPv2\obj\x86\Debug\SIGPv2.FormTablaVE.resources
+C:\Users\Lenovo\Desktop\SIGPv2_REVISAR_CONEXION_Solucionado\SIGPv2\obj\x86\Debug\SIGPv2.FormTablaVP.resources
+C:\Users\Lenovo\Desktop\SIGPv2_REVISAR_CONEXION_Solucionado\SIGPv2\obj\x86\Debug\SIGPv2.FormUsuarios.resources
+C:\Users\Lenovo\Desktop\SIGPv2_REVISAR_CONEXION_Solucionado\SIGPv2\obj\x86\Debug\SIGPv2.Resources.resources
+C:\Users\Lenovo\Desktop\SIGPv2_REVISAR_CONEXION_Solucionado\SIGPv2\obj\x86\Debug\SIGPv2.vbproj.GenerateResource.Cache
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv3_20190917\SIGPv2\obj\x86\Debug\SIGPv2.exe
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv3_20190917\SIGPv2\obj\x86\Debug\SIGPv2.xml
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv3_20190917\SIGPv2\obj\x86\Debug\SIGPv2.pdb
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv3_20190917\SIGPv2\bin\Debug\SIGPv2.exe
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv3_20190917\SIGPv2\bin\Debug\SIGPv2.pdb
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv3_20190917\SIGPv2\bin\Debug\SIGPv2.xml
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv3_20190917\SIGPv2\obj\x86\Debug\SIGPv2.FormAbrirRelevamiento.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv3_20190917\SIGPv2\obj\x86\Debug\SIGPv2.FormBuscarMapa.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv3_20190917\SIGPv2\obj\x86\Debug\SIGPv2.FormCalculos.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv3_20190917\SIGPv2\obj\x86\Debug\SIGPv2.FormCuestionarios.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv3_20190917\SIGPv2\obj\x86\Debug\SIGPv2.FormEmpresa.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv3_20190917\SIGPv2\obj\x86\Debug\SIGPv2.FormIncendios.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv3_20190917\SIGPv2\obj\x86\Debug\SIGPv2.FormInspeccion.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv3_20190917\SIGPv2\obj\x86\Debug\SIGPv2.FormInventario.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv3_20190917\SIGPv2\obj\x86\Debug\SIGPv2.FormLogin.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv3_20190917\SIGPv2\obj\x86\Debug\SIGPv2.FormLugaresDeTrabajo.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv3_20190917\SIGPv2\obj\x86\Debug\SIGPv2.FormMapa.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv3_20190917\SIGPv2\obj\x86\Debug\SIGPv2.FormMaquinas.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv3_20190917\SIGPv2\obj\x86\Debug\SIGPv2.FormNavegador.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv3_20190917\SIGPv2\obj\x86\Debug\SIGPv2.FormNuevoPrevencionista.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv3_20190917\SIGPv2\obj\x86\Debug\SIGPv2.FormNuevoRelevamiento.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv3_20190917\SIGPv2\obj\x86\Debug\SIGPv2.FormNuevoTrabajador.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv3_20190917\SIGPv2\obj\x86\Debug\SIGPv2.FormPlanDeContingencia.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv3_20190917\SIGPv2\obj\x86\Debug\SIGPv2.FormPrincipal.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv3_20190917\SIGPv2\obj\x86\Debug\SIGPv2.FormReporte.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv3_20190917\SIGPv2\obj\x86\Debug\SIGPv2.FormTablaVC.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv3_20190917\SIGPv2\obj\x86\Debug\SIGPv2.FormTablaVE.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv3_20190917\SIGPv2\obj\x86\Debug\SIGPv2.FormTablaVP.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv3_20190917\SIGPv2\obj\x86\Debug\SIGPv2.FormUsuarios.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv3_20190917\SIGPv2\obj\x86\Debug\SIGPv2.Resources.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv3_20190917\SIGPv2\obj\x86\Debug\SIGPv2.vbproj.GenerateResource.Cache
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv4_20190917\SIGPv2\obj\x86\Debug\SIGPv2.exe
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv4_20190917\SIGPv2\obj\x86\Debug\SIGPv2.xml
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv4_20190917\SIGPv2\obj\x86\Debug\SIGPv2.pdb
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv4_20190917\SIGPv2\bin\Debug\SIGPv2.exe
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv4_20190917\SIGPv2\bin\Debug\SIGPv2.pdb
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv4_20190917\SIGPv2\bin\Debug\SIGPv2.xml
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv4_20190917\SIGPv2\obj\x86\Debug\SIGPv2.FormAbrirRelevamiento.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv4_20190917\SIGPv2\obj\x86\Debug\SIGPv2.FormBuscarMapa.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv4_20190917\SIGPv2\obj\x86\Debug\SIGPv2.FormCalculos.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv4_20190917\SIGPv2\obj\x86\Debug\SIGPv2.FormCuestionarios.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv4_20190917\SIGPv2\obj\x86\Debug\SIGPv2.FormEmpresa.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv4_20190917\SIGPv2\obj\x86\Debug\SIGPv2.FormIncendios.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv4_20190917\SIGPv2\obj\x86\Debug\SIGPv2.FormInspeccion.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv4_20190917\SIGPv2\obj\x86\Debug\SIGPv2.FormInventario.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv4_20190917\SIGPv2\obj\x86\Debug\SIGPv2.FormLogin.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv4_20190917\SIGPv2\obj\x86\Debug\SIGPv2.FormLugaresDeTrabajo.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv4_20190917\SIGPv2\obj\x86\Debug\SIGPv2.FormMapa.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv4_20190917\SIGPv2\obj\x86\Debug\SIGPv2.FormMaquinas.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv4_20190917\SIGPv2\obj\x86\Debug\SIGPv2.FormNavegador.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv4_20190917\SIGPv2\obj\x86\Debug\SIGPv2.FormNuevoPrevencionista.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv4_20190917\SIGPv2\obj\x86\Debug\SIGPv2.FormNuevoRelevamiento.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv4_20190917\SIGPv2\obj\x86\Debug\SIGPv2.FormNuevoTrabajador.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv4_20190917\SIGPv2\obj\x86\Debug\SIGPv2.FormPlanDeContingencia.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv4_20190917\SIGPv2\obj\x86\Debug\SIGPv2.FormPrincipal.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv4_20190917\SIGPv2\obj\x86\Debug\SIGPv2.FormReporte.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv4_20190917\SIGPv2\obj\x86\Debug\SIGPv2.FormTablaVC.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv4_20190917\SIGPv2\obj\x86\Debug\SIGPv2.FormTablaVE.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv4_20190917\SIGPv2\obj\x86\Debug\SIGPv2.FormTablaVP.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv4_20190917\SIGPv2\obj\x86\Debug\SIGPv2.FormUsuarios.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv4_20190917\SIGPv2\obj\x86\Debug\SIGPv2.Resources.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv4_20190917\SIGPv2\obj\x86\Debug\SIGPv2.vbproj.GenerateResource.Cache
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv5_20190918\SIGPv2\obj\x86\Debug\SIGPv2.exe
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv5_20190918\SIGPv2\obj\x86\Debug\SIGPv2.xml
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv5_20190918\SIGPv2\obj\x86\Debug\SIGPv2.pdb
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv5_20190918\SIGPv2\bin\Debug\SIGPv2.exe
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv5_20190918\SIGPv2\bin\Debug\SIGPv2.pdb
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv5_20190918\SIGPv2\bin\Debug\SIGPv2.xml
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv5_20190918\SIGPv2\obj\x86\Debug\SIGPv2.FormAbrirRelevamiento.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv5_20190918\SIGPv2\obj\x86\Debug\SIGPv2.FormBuscarMapa.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv5_20190918\SIGPv2\obj\x86\Debug\SIGPv2.FormCalculos.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv5_20190918\SIGPv2\obj\x86\Debug\SIGPv2.FormCuestionarios.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv5_20190918\SIGPv2\obj\x86\Debug\SIGPv2.FormEmpresa.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv5_20190918\SIGPv2\obj\x86\Debug\SIGPv2.FormIncendios.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv5_20190918\SIGPv2\obj\x86\Debug\SIGPv2.FormInspeccion.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv5_20190918\SIGPv2\obj\x86\Debug\SIGPv2.FormInventario.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv5_20190918\SIGPv2\obj\x86\Debug\SIGPv2.FormLogin.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv5_20190918\SIGPv2\obj\x86\Debug\SIGPv2.FormLugaresDeTrabajo.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv5_20190918\SIGPv2\obj\x86\Debug\SIGPv2.FormMapa.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv5_20190918\SIGPv2\obj\x86\Debug\SIGPv2.FormMaquinas.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv5_20190918\SIGPv2\obj\x86\Debug\SIGPv2.FormNavegador.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv5_20190918\SIGPv2\obj\x86\Debug\SIGPv2.FormNuevoPrevencionista.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv5_20190918\SIGPv2\obj\x86\Debug\SIGPv2.FormNuevoRelevamiento.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv5_20190918\SIGPv2\obj\x86\Debug\SIGPv2.FormNuevoTrabajador.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv5_20190918\SIGPv2\obj\x86\Debug\SIGPv2.FormPlanDeContingencia.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv5_20190918\SIGPv2\obj\x86\Debug\SIGPv2.FormPrincipal.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv5_20190918\SIGPv2\obj\x86\Debug\SIGPv2.FormReporte.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv5_20190918\SIGPv2\obj\x86\Debug\SIGPv2.FormTablaVC.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv5_20190918\SIGPv2\obj\x86\Debug\SIGPv2.FormTablaVE.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv5_20190918\SIGPv2\obj\x86\Debug\SIGPv2.FormTablaVP.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv5_20190918\SIGPv2\obj\x86\Debug\SIGPv2.FormUsuarios.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv5_20190918\SIGPv2\obj\x86\Debug\SIGPv2.Resources.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv5_20190918\SIGPv2\obj\x86\Debug\SIGPv2.vbproj.GenerateResource.Cache
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv5.1_20190918\SIGPv2\obj\x86\Debug\SIGPv2.exe
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv5.1_20190918\SIGPv2\obj\x86\Debug\SIGPv2.xml
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv5.1_20190918\SIGPv2\obj\x86\Debug\SIGPv2.pdb
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv5.1_20190918\SIGPv2\bin\Debug\SIGPv2.exe
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv5.1_20190918\SIGPv2\bin\Debug\SIGPv2.pdb
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv5.1_20190918\SIGPv2\bin\Debug\SIGPv2.xml
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv5.1_20190918\SIGPv2\obj\x86\Debug\SIGPv2.FormAbrirRelevamiento.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv5.1_20190918\SIGPv2\obj\x86\Debug\SIGPv2.FormBuscarMapa.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv5.1_20190918\SIGPv2\obj\x86\Debug\SIGPv2.FormCalculos.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv5.1_20190918\SIGPv2\obj\x86\Debug\SIGPv2.FormCuestionarios.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv5.1_20190918\SIGPv2\obj\x86\Debug\SIGPv2.FormEmpresa.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv5.1_20190918\SIGPv2\obj\x86\Debug\SIGPv2.FormIncendios.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv5.1_20190918\SIGPv2\obj\x86\Debug\SIGPv2.FormInspeccion.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv5.1_20190918\SIGPv2\obj\x86\Debug\SIGPv2.FormInventario.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv5.1_20190918\SIGPv2\obj\x86\Debug\SIGPv2.FormLogin.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv5.1_20190918\SIGPv2\obj\x86\Debug\SIGPv2.FormLugaresDeTrabajo.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv5.1_20190918\SIGPv2\obj\x86\Debug\SIGPv2.FormMapa.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv5.1_20190918\SIGPv2\obj\x86\Debug\SIGPv2.FormMaquinas.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv5.1_20190918\SIGPv2\obj\x86\Debug\SIGPv2.FormNavegador.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv5.1_20190918\SIGPv2\obj\x86\Debug\SIGPv2.FormNuevoRelevamiento.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv5.1_20190918\SIGPv2\obj\x86\Debug\SIGPv2.FormNuevoTrabajador.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv5.1_20190918\SIGPv2\obj\x86\Debug\SIGPv2.FormPlanDeContingencia.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv5.1_20190918\SIGPv2\obj\x86\Debug\SIGPv2.FormPrincipal.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv5.1_20190918\SIGPv2\obj\x86\Debug\SIGPv2.FormReporte.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv5.1_20190918\SIGPv2\obj\x86\Debug\SIGPv2.FormTablaVC.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv5.1_20190918\SIGPv2\obj\x86\Debug\SIGPv2.FormTablaVE.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv5.1_20190918\SIGPv2\obj\x86\Debug\SIGPv2.FormTablaVP.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv5.1_20190918\SIGPv2\obj\x86\Debug\SIGPv2.FormUsuarios.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv5.1_20190918\SIGPv2\obj\x86\Debug\SIGPv2.Resources.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv5.1_20190918\SIGPv2\obj\x86\Debug\SIGPv2.vbproj.GenerateResource.Cache
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv5.1_20190918\SIGPv2\obj\x86\Debug\SIGPv2.FormGestionPrevencionistas.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv5.1_20190918\SIGPv2\obj\x86\Debug\SIGPv2.FormNuevoContrato.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv6.0_20190918\SIGPv2\obj\x86\Debug\SIGPv2.exe
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv6.0_20190918\SIGPv2\obj\x86\Debug\SIGPv2.xml
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv6.0_20190918\SIGPv2\obj\x86\Debug\SIGPv2.pdb
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv6.0_20190918\SIGPv2\obj\x86\Debug\SIGPv2.FormAbrirRelevamiento.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv6.0_20190918\SIGPv2\obj\x86\Debug\SIGPv2.FormBuscarMapa.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv6.0_20190918\SIGPv2\obj\x86\Debug\SIGPv2.FormCalculos.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv6.0_20190918\SIGPv2\obj\x86\Debug\SIGPv2.FormCuestionarios.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv6.0_20190918\SIGPv2\obj\x86\Debug\SIGPv2.FormEmpresa.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv6.0_20190918\SIGPv2\obj\x86\Debug\SIGPv2.FormGestionPrevencionistas.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv6.0_20190918\SIGPv2\obj\x86\Debug\SIGPv2.FormIncendios.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv6.0_20190918\SIGPv2\obj\x86\Debug\SIGPv2.FormInspeccion.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv6.0_20190918\SIGPv2\obj\x86\Debug\SIGPv2.FormInventario.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv6.0_20190918\SIGPv2\obj\x86\Debug\SIGPv2.FormLogin.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv6.0_20190918\SIGPv2\obj\x86\Debug\SIGPv2.FormLugaresDeTrabajo.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv6.0_20190918\SIGPv2\obj\x86\Debug\SIGPv2.FormMapa.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv6.0_20190918\SIGPv2\obj\x86\Debug\SIGPv2.FormMaquinas.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv6.0_20190918\SIGPv2\obj\x86\Debug\SIGPv2.FormNavegador.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv6.0_20190918\SIGPv2\obj\x86\Debug\SIGPv2.FormNuevoContrato.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv6.0_20190918\SIGPv2\obj\x86\Debug\SIGPv2.FormNuevoRelevamiento.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv6.0_20190918\SIGPv2\obj\x86\Debug\SIGPv2.FormNuevoTrabajador.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv6.0_20190918\SIGPv2\obj\x86\Debug\SIGPv2.FormPlanDeContingencia.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv6.0_20190918\SIGPv2\obj\x86\Debug\SIGPv2.FormPrincipal.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv6.0_20190918\SIGPv2\obj\x86\Debug\SIGPv2.FormReporte.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv6.0_20190918\SIGPv2\obj\x86\Debug\SIGPv2.FormTablaVC.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv6.0_20190918\SIGPv2\obj\x86\Debug\SIGPv2.FormTablaVE.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv6.0_20190918\SIGPv2\obj\x86\Debug\SIGPv2.FormTablaVP.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv6.0_20190918\SIGPv2\obj\x86\Debug\SIGPv2.FormUsuarios.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv6.0_20190918\SIGPv2\obj\x86\Debug\SIGPv2.Resources.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv6.0_20190918\SIGPv2\obj\x86\Debug\SIGPv2.vbproj.GenerateResource.Cache
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv6.0_20190918\SIGPv2\bin\Debug\SIGPv2.exe
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv6.0_20190918\SIGPv2\bin\Debug\SIGPv2.pdb
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv6.0_20190918\SIGPv2\bin\Debug\SIGPv2.xml
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv6.1_20190918\SIGPv2\obj\x86\Debug\SIGPv2.exe
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv6.1_20190918\SIGPv2\obj\x86\Debug\SIGPv2.xml
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv6.1_20190918\SIGPv2\obj\x86\Debug\SIGPv2.pdb
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv6.1_20190918\SIGPv2\bin\Debug\SIGPv2.exe
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv6.1_20190918\SIGPv2\bin\Debug\SIGPv2.pdb
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv6.1_20190918\SIGPv2\bin\Debug\SIGPv2.xml
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv6.1_20190918\SIGPv2\obj\x86\Debug\SIGPv2.FormAbrirRelevamiento.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv6.1_20190918\SIGPv2\obj\x86\Debug\SIGPv2.FormBuscarMapa.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv6.1_20190918\SIGPv2\obj\x86\Debug\SIGPv2.FormCalculos.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv6.1_20190918\SIGPv2\obj\x86\Debug\SIGPv2.FormCuestionarios.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv6.1_20190918\SIGPv2\obj\x86\Debug\SIGPv2.FormEmpresa.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv6.1_20190918\SIGPv2\obj\x86\Debug\SIGPv2.FormGestionPrevencionistas.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv6.1_20190918\SIGPv2\obj\x86\Debug\SIGPv2.FormIncendios.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv6.1_20190918\SIGPv2\obj\x86\Debug\SIGPv2.FormInspeccion.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv6.1_20190918\SIGPv2\obj\x86\Debug\SIGPv2.FormInventario.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv6.1_20190918\SIGPv2\obj\x86\Debug\SIGPv2.FormLogin.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv6.1_20190918\SIGPv2\obj\x86\Debug\SIGPv2.FormLugaresDeTrabajo.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv6.1_20190918\SIGPv2\obj\x86\Debug\SIGPv2.FormMapa.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv6.1_20190918\SIGPv2\obj\x86\Debug\SIGPv2.FormMaquinas.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv6.1_20190918\SIGPv2\obj\x86\Debug\SIGPv2.FormNavegador.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv6.1_20190918\SIGPv2\obj\x86\Debug\SIGPv2.FormNuevoContrato.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv6.1_20190918\SIGPv2\obj\x86\Debug\SIGPv2.FormNuevoRelevamiento.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv6.1_20190918\SIGPv2\obj\x86\Debug\SIGPv2.FormNuevoTrabajador.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv6.1_20190918\SIGPv2\obj\x86\Debug\SIGPv2.FormPlanDeContingencia.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv6.1_20190918\SIGPv2\obj\x86\Debug\SIGPv2.FormPrincipal.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv6.1_20190918\SIGPv2\obj\x86\Debug\SIGPv2.FormReporte.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv6.1_20190918\SIGPv2\obj\x86\Debug\SIGPv2.FormTablaVC.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv6.1_20190918\SIGPv2\obj\x86\Debug\SIGPv2.FormTablaVE.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv6.1_20190918\SIGPv2\obj\x86\Debug\SIGPv2.FormTablaVP.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv6.1_20190918\SIGPv2\obj\x86\Debug\SIGPv2.FormUsuarios.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv6.1_20190918\SIGPv2\obj\x86\Debug\SIGPv2.Resources.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv6.1_20190918\SIGPv2\obj\x86\Debug\SIGPv2.vbproj.GenerateResource.Cache
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv7.0_20190919\SIGPv2\obj\x86\Debug\SIGPv2.exe
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv7.0_20190919\SIGPv2\obj\x86\Debug\SIGPv2.xml
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv7.0_20190919\SIGPv2\obj\x86\Debug\SIGPv2.pdb
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv7.0_20190919\SIGPv2\obj\x86\Debug\SIGPv2.FormAbrirRelevamiento.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv7.0_20190919\SIGPv2\obj\x86\Debug\SIGPv2.FormBuscarMapa.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv7.0_20190919\SIGPv2\obj\x86\Debug\SIGPv2.FormCalculos.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv7.0_20190919\SIGPv2\obj\x86\Debug\SIGPv2.FormCuestionarios.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv7.0_20190919\SIGPv2\obj\x86\Debug\SIGPv2.FormEmpresa.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv7.0_20190919\SIGPv2\obj\x86\Debug\SIGPv2.FormGestionPrevencionistas.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv7.0_20190919\SIGPv2\obj\x86\Debug\SIGPv2.FormIncendios.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv7.0_20190919\SIGPv2\obj\x86\Debug\SIGPv2.FormInspeccion.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv7.0_20190919\SIGPv2\obj\x86\Debug\SIGPv2.FormInventario.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv7.0_20190919\SIGPv2\obj\x86\Debug\SIGPv2.FormLogin.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv7.0_20190919\SIGPv2\obj\x86\Debug\SIGPv2.FormLugaresDeTrabajo.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv7.0_20190919\SIGPv2\obj\x86\Debug\SIGPv2.FormMapa.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv7.0_20190919\SIGPv2\obj\x86\Debug\SIGPv2.FormMaquinas.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv7.0_20190919\SIGPv2\obj\x86\Debug\SIGPv2.FormNavegador.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv7.0_20190919\SIGPv2\obj\x86\Debug\SIGPv2.FormNuevoContrato.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv7.0_20190919\SIGPv2\obj\x86\Debug\SIGPv2.FormNuevoRelevamiento.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv7.0_20190919\SIGPv2\obj\x86\Debug\SIGPv2.FormNuevoTrabajador.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv7.0_20190919\SIGPv2\obj\x86\Debug\SIGPv2.FormPlanDeContingencia.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv7.0_20190919\SIGPv2\obj\x86\Debug\SIGPv2.FormPrincipal.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv7.0_20190919\SIGPv2\obj\x86\Debug\SIGPv2.FormReporte.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv7.0_20190919\SIGPv2\obj\x86\Debug\SIGPv2.FormTablaVC.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv7.0_20190919\SIGPv2\obj\x86\Debug\SIGPv2.FormTablaVE.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv7.0_20190919\SIGPv2\obj\x86\Debug\SIGPv2.FormTablaVP.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv7.0_20190919\SIGPv2\obj\x86\Debug\SIGPv2.FormUsuarios.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv7.0_20190919\SIGPv2\obj\x86\Debug\SIGPv2.Resources.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv7.0_20190919\SIGPv2\obj\x86\Debug\SIGPv2.vbproj.GenerateResource.Cache
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv7.0_20190919\SIGPv2\bin\Debug\SIGPv2.exe
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv7.0_20190919\SIGPv2\bin\Debug\SIGPv2.pdb
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv7.0_20190919\SIGPv2\bin\Debug\SIGPv2.xml
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv8.0_20190920\SIGPv2\obj\x86\Debug\SIGPv2.exe
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv8.0_20190920\SIGPv2\obj\x86\Debug\SIGPv2.xml
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv8.0_20190920\SIGPv2\obj\x86\Debug\SIGPv2.pdb
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv8.0_20190920\SIGPv2\bin\Debug\SIGPv2.exe
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv8.0_20190920\SIGPv2\bin\Debug\SIGPv2.pdb
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv8.0_20190920\SIGPv2\bin\Debug\SIGPv2.xml
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv8.0_20190920\SIGPv2\obj\x86\Debug\SIGPv2.FormAbrirRelevamiento.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv8.0_20190920\SIGPv2\obj\x86\Debug\SIGPv2.FormBuscarMapa.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv8.0_20190920\SIGPv2\obj\x86\Debug\SIGPv2.FormCalculos.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv8.0_20190920\SIGPv2\obj\x86\Debug\SIGPv2.FormCuestionarios.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv8.0_20190920\SIGPv2\obj\x86\Debug\SIGPv2.FormEmpresa.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv8.0_20190920\SIGPv2\obj\x86\Debug\SIGPv2.FormGestionPrevencionistas.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv8.0_20190920\SIGPv2\obj\x86\Debug\SIGPv2.FormIncendios.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv8.0_20190920\SIGPv2\obj\x86\Debug\SIGPv2.FormInspeccion.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv8.0_20190920\SIGPv2\obj\x86\Debug\SIGPv2.FormInventario.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv8.0_20190920\SIGPv2\obj\x86\Debug\SIGPv2.FormLogin.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv8.0_20190920\SIGPv2\obj\x86\Debug\SIGPv2.FormLugaresDeTrabajo.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv8.0_20190920\SIGPv2\obj\x86\Debug\SIGPv2.FormMapa.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv8.0_20190920\SIGPv2\obj\x86\Debug\SIGPv2.FormMaquinas.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv8.0_20190920\SIGPv2\obj\x86\Debug\SIGPv2.FormNavegador.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv8.0_20190920\SIGPv2\obj\x86\Debug\SIGPv2.FormNuevoContrato.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv8.0_20190920\SIGPv2\obj\x86\Debug\SIGPv2.FormNuevoRelevamiento.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv8.0_20190920\SIGPv2\obj\x86\Debug\SIGPv2.FormNuevoTrabajador.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv8.0_20190920\SIGPv2\obj\x86\Debug\SIGPv2.FormPlanDeContingencia.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv8.0_20190920\SIGPv2\obj\x86\Debug\SIGPv2.FormPrincipal.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv8.0_20190920\SIGPv2\obj\x86\Debug\SIGPv2.FormReporte.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv8.0_20190920\SIGPv2\obj\x86\Debug\SIGPv2.FormTablaVC.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv8.0_20190920\SIGPv2\obj\x86\Debug\SIGPv2.FormTablaVE.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv8.0_20190920\SIGPv2\obj\x86\Debug\SIGPv2.FormTablaVP.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv8.0_20190920\SIGPv2\obj\x86\Debug\SIGPv2.FormUsuarios.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv8.0_20190920\SIGPv2\obj\x86\Debug\SIGPv2.Resources.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv8.0_20190920\SIGPv2\obj\x86\Debug\SIGPv2.vbproj.GenerateResource.Cache
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv8.2_20190920\SIGPv2\obj\x86\Debug\SIGPv2.exe
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv8.2_20190920\SIGPv2\obj\x86\Debug\SIGPv2.xml
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv8.2_20190920\SIGPv2\obj\x86\Debug\SIGPv2.pdb
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv8.2_20190920\SIGPv2\bin\Debug\SIGPv2.exe
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv8.2_20190920\SIGPv2\bin\Debug\SIGPv2.pdb
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv8.2_20190920\SIGPv2\bin\Debug\SIGPv2.xml
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv8.2_20190920\SIGPv2\obj\x86\Debug\SIGPv2.FormAbrirRelevamiento.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv8.2_20190920\SIGPv2\obj\x86\Debug\SIGPv2.FormBuscarMapa.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv8.2_20190920\SIGPv2\obj\x86\Debug\SIGPv2.FormCalculos.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv8.2_20190920\SIGPv2\obj\x86\Debug\SIGPv2.FormCuestionarios.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv8.2_20190920\SIGPv2\obj\x86\Debug\SIGPv2.FormEmpresa.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv8.2_20190920\SIGPv2\obj\x86\Debug\SIGPv2.FormGestionPrevencionistas.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv8.2_20190920\SIGPv2\obj\x86\Debug\SIGPv2.FormIncendios.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv8.2_20190920\SIGPv2\obj\x86\Debug\SIGPv2.FormInspeccion.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv8.2_20190920\SIGPv2\obj\x86\Debug\SIGPv2.FormInventario.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv8.2_20190920\SIGPv2\obj\x86\Debug\SIGPv2.FormLogin.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv8.2_20190920\SIGPv2\obj\x86\Debug\SIGPv2.FormLugaresDeTrabajo.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv8.2_20190920\SIGPv2\obj\x86\Debug\SIGPv2.FormMapa.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv8.2_20190920\SIGPv2\obj\x86\Debug\SIGPv2.FormMaquinas.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv8.2_20190920\SIGPv2\obj\x86\Debug\SIGPv2.FormNavegador.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv8.2_20190920\SIGPv2\obj\x86\Debug\SIGPv2.FormNuevoContrato.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv8.2_20190920\SIGPv2\obj\x86\Debug\SIGPv2.FormNuevoRelevamiento.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv8.2_20190920\SIGPv2\obj\x86\Debug\SIGPv2.FormNuevoTrabajador.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv8.2_20190920\SIGPv2\obj\x86\Debug\SIGPv2.FormPlanDeContingencia.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv8.2_20190920\SIGPv2\obj\x86\Debug\SIGPv2.FormPrincipal.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv8.2_20190920\SIGPv2\obj\x86\Debug\SIGPv2.FormReporte.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv8.2_20190920\SIGPv2\obj\x86\Debug\SIGPv2.FormTablaVC.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv8.2_20190920\SIGPv2\obj\x86\Debug\SIGPv2.FormTablaVE.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv8.2_20190920\SIGPv2\obj\x86\Debug\SIGPv2.FormTablaVP.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv8.2_20190920\SIGPv2\obj\x86\Debug\SIGPv2.FormUsuarios.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv8.2_20190920\SIGPv2\obj\x86\Debug\SIGPv2.Resources.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv8.2_20190920\SIGPv2\obj\x86\Debug\SIGPv2.vbproj.GenerateResource.Cache
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv8.3_20190921\SIGPv2\obj\x86\Debug\SIGPv2.exe
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv8.3_20190921\SIGPv2\obj\x86\Debug\SIGPv2.xml
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv8.3_20190921\SIGPv2\obj\x86\Debug\SIGPv2.pdb
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv8.3_20190921\SIGPv2\bin\Debug\SIGPv2.exe
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv8.3_20190921\SIGPv2\bin\Debug\SIGPv2.pdb
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv8.3_20190921\SIGPv2\bin\Debug\SIGPv2.xml
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv8.3_20190921\SIGPv2\obj\x86\Debug\SIGPv2.FormAbrirRelevamiento.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv8.3_20190921\SIGPv2\obj\x86\Debug\SIGPv2.FormBuscarMapa.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv8.3_20190921\SIGPv2\obj\x86\Debug\SIGPv2.FormCalculos.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv8.3_20190921\SIGPv2\obj\x86\Debug\SIGPv2.FormCuestionarios.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv8.3_20190921\SIGPv2\obj\x86\Debug\SIGPv2.FormEmpresa.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv8.3_20190921\SIGPv2\obj\x86\Debug\SIGPv2.FormGestionPrevencionistas.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv8.3_20190921\SIGPv2\obj\x86\Debug\SIGPv2.FormIncendios.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv8.3_20190921\SIGPv2\obj\x86\Debug\SIGPv2.FormInspeccion.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv8.3_20190921\SIGPv2\obj\x86\Debug\SIGPv2.FormInventario.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv8.3_20190921\SIGPv2\obj\x86\Debug\SIGPv2.FormLogin.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv8.3_20190921\SIGPv2\obj\x86\Debug\SIGPv2.FormLugaresDeTrabajo.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv8.3_20190921\SIGPv2\obj\x86\Debug\SIGPv2.FormMapa.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv8.3_20190921\SIGPv2\obj\x86\Debug\SIGPv2.FormMaquinas.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv8.3_20190921\SIGPv2\obj\x86\Debug\SIGPv2.FormNavegador.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv8.3_20190921\SIGPv2\obj\x86\Debug\SIGPv2.FormNuevoContrato.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv8.3_20190921\SIGPv2\obj\x86\Debug\SIGPv2.FormNuevoRelevamiento.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv8.3_20190921\SIGPv2\obj\x86\Debug\SIGPv2.FormNuevoTrabajador.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv8.3_20190921\SIGPv2\obj\x86\Debug\SIGPv2.FormPlanDeContingencia.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv8.3_20190921\SIGPv2\obj\x86\Debug\SIGPv2.FormPrincipal.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv8.3_20190921\SIGPv2\obj\x86\Debug\SIGPv2.FormReporte.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv8.3_20190921\SIGPv2\obj\x86\Debug\SIGPv2.FormTablaVC.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv8.3_20190921\SIGPv2\obj\x86\Debug\SIGPv2.FormTablaVE.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv8.3_20190921\SIGPv2\obj\x86\Debug\SIGPv2.FormTablaVP.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv8.3_20190921\SIGPv2\obj\x86\Debug\SIGPv2.FormUsuarios.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv8.3_20190921\SIGPv2\obj\x86\Debug\SIGPv2.Resources.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv8.3_20190921\SIGPv2\obj\x86\Debug\SIGPv2.vbproj.GenerateResource.Cache
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv9.0_20190921\SIGPv2\obj\x86\Debug\SIGPv2.exe
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv9.0_20190921\SIGPv2\obj\x86\Debug\SIGPv2.xml
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv9.0_20190921\SIGPv2\obj\x86\Debug\SIGPv2.pdb
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv9.0_20190921\SIGPv2\obj\x86\Debug\SIGPv2.FormAbrirRelevamiento.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv9.0_20190921\SIGPv2\obj\x86\Debug\SIGPv2.FormBuscarMapa.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv9.0_20190921\SIGPv2\obj\x86\Debug\SIGPv2.FormCalculos.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv9.0_20190921\SIGPv2\obj\x86\Debug\SIGPv2.FormCuestionarios.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv9.0_20190921\SIGPv2\obj\x86\Debug\SIGPv2.FormEmpresa.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv9.0_20190921\SIGPv2\obj\x86\Debug\SIGPv2.FormGestionPrevencionistas.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv9.0_20190921\SIGPv2\obj\x86\Debug\SIGPv2.FormIncendios.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv9.0_20190921\SIGPv2\obj\x86\Debug\SIGPv2.FormInspecciones.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv9.0_20190921\SIGPv2\obj\x86\Debug\SIGPv2.FormInventario.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv9.0_20190921\SIGPv2\obj\x86\Debug\SIGPv2.FormLogin.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv9.0_20190921\SIGPv2\obj\x86\Debug\SIGPv2.FormLugaresDeTrabajo.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv9.0_20190921\SIGPv2\obj\x86\Debug\SIGPv2.FormMapa.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv9.0_20190921\SIGPv2\obj\x86\Debug\SIGPv2.FormMaquinas.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv9.0_20190921\SIGPv2\obj\x86\Debug\SIGPv2.FormNavegador.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv9.0_20190921\SIGPv2\obj\x86\Debug\SIGPv2.FormNuevoContrato.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv9.0_20190921\SIGPv2\obj\x86\Debug\SIGPv2.FormNuevoRelevamiento.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv9.0_20190921\SIGPv2\obj\x86\Debug\SIGPv2.FormNuevoTrabajador.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv9.0_20190921\SIGPv2\obj\x86\Debug\SIGPv2.FormPlanDeContingencia.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv9.0_20190921\SIGPv2\obj\x86\Debug\SIGPv2.FormPrincipal.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv9.0_20190921\SIGPv2\obj\x86\Debug\SIGPv2.FormReporte.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv9.0_20190921\SIGPv2\obj\x86\Debug\SIGPv2.FormTablaVC.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv9.0_20190921\SIGPv2\obj\x86\Debug\SIGPv2.FormTablaVE.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv9.0_20190921\SIGPv2\obj\x86\Debug\SIGPv2.FormTablaVP.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv9.0_20190921\SIGPv2\obj\x86\Debug\SIGPv2.FormUsuarios.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv9.0_20190921\SIGPv2\obj\x86\Debug\SIGPv2.Resources.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv9.0_20190921\SIGPv2\obj\x86\Debug\SIGPv2.vbproj.GenerateResource.Cache
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv9.0_20190921\SIGPv2\bin\Debug\SIGPv2.exe
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv9.0_20190921\SIGPv2\bin\Debug\SIGPv2.pdb
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv9.0_20190921\SIGPv2\bin\Debug\SIGPv2.xml
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv9.1_20190922\SIGPv2\obj\x86\Debug\SIGPv2.exe
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv9.1_20190922\SIGPv2\obj\x86\Debug\SIGPv2.xml
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv9.1_20190922\SIGPv2\obj\x86\Debug\SIGPv2.pdb
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv9.1_20190922\SIGPv2\bin\Debug\SIGPv2.exe
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv9.1_20190922\SIGPv2\bin\Debug\SIGPv2.pdb
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv9.1_20190922\SIGPv2\bin\Debug\SIGPv2.xml
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv9.1_20190922\SIGPv2\obj\x86\Debug\SIGPv2.FormAbrirRelevamiento.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv9.1_20190922\SIGPv2\obj\x86\Debug\SIGPv2.FormBuscarMapa.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv9.1_20190922\SIGPv2\obj\x86\Debug\SIGPv2.FormCalculos.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv9.1_20190922\SIGPv2\obj\x86\Debug\SIGPv2.FormCuestionarios.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv9.1_20190922\SIGPv2\obj\x86\Debug\SIGPv2.FormEmpresa.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv9.1_20190922\SIGPv2\obj\x86\Debug\SIGPv2.FormGestionPrevencionistas.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv9.1_20190922\SIGPv2\obj\x86\Debug\SIGPv2.FormIncendios.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv9.1_20190922\SIGPv2\obj\x86\Debug\SIGPv2.FormInspecciones.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv9.1_20190922\SIGPv2\obj\x86\Debug\SIGPv2.FormInventario.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv9.1_20190922\SIGPv2\obj\x86\Debug\SIGPv2.FormLogin.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv9.1_20190922\SIGPv2\obj\x86\Debug\SIGPv2.FormLugaresDeTrabajo.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv9.1_20190922\SIGPv2\obj\x86\Debug\SIGPv2.FormMapa.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv9.1_20190922\SIGPv2\obj\x86\Debug\SIGPv2.FormMaquinas.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv9.1_20190922\SIGPv2\obj\x86\Debug\SIGPv2.FormNavegador.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv9.1_20190922\SIGPv2\obj\x86\Debug\SIGPv2.FormNuevoContrato.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv9.1_20190922\SIGPv2\obj\x86\Debug\SIGPv2.FormNuevoRelevamiento.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv9.1_20190922\SIGPv2\obj\x86\Debug\SIGPv2.FormNuevoTrabajador.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv9.1_20190922\SIGPv2\obj\x86\Debug\SIGPv2.FormPlanDeContingencia.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv9.1_20190922\SIGPv2\obj\x86\Debug\SIGPv2.FormPrincipal.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv9.1_20190922\SIGPv2\obj\x86\Debug\SIGPv2.FormReporte.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv9.1_20190922\SIGPv2\obj\x86\Debug\SIGPv2.FormTablaVC.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv9.1_20190922\SIGPv2\obj\x86\Debug\SIGPv2.FormTablaVE.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv9.1_20190922\SIGPv2\obj\x86\Debug\SIGPv2.FormTablaVP.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv9.1_20190922\SIGPv2\obj\x86\Debug\SIGPv2.FormUsuarios.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv9.1_20190922\SIGPv2\obj\x86\Debug\SIGPv2.Resources.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv9.1_20190922\SIGPv2\obj\x86\Debug\SIGPv2.vbproj.GenerateResource.Cache
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv9.2_20190922\SIGPv2\obj\x86\Debug\SIGPv2.exe
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv9.2_20190922\SIGPv2\obj\x86\Debug\SIGPv2.xml
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv9.2_20190922\SIGPv2\obj\x86\Debug\SIGPv2.pdb
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv9.2_20190922\SIGPv2\bin\Debug\SIGPv2.exe
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv9.2_20190922\SIGPv2\bin\Debug\SIGPv2.pdb
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv9.2_20190922\SIGPv2\bin\Debug\SIGPv2.xml
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv9.2_20190922\SIGPv2\obj\x86\Debug\SIGPv2.FormAbrirRelevamiento.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv9.2_20190922\SIGPv2\obj\x86\Debug\SIGPv2.FormBuscarMapa.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv9.2_20190922\SIGPv2\obj\x86\Debug\SIGPv2.FormCalculos.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv9.2_20190922\SIGPv2\obj\x86\Debug\SIGPv2.FormCuestionarios.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv9.2_20190922\SIGPv2\obj\x86\Debug\SIGPv2.FormEmpresa.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv9.2_20190922\SIGPv2\obj\x86\Debug\SIGPv2.FormGestionPrevencionistas.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv9.2_20190922\SIGPv2\obj\x86\Debug\SIGPv2.FormIncendios.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv9.2_20190922\SIGPv2\obj\x86\Debug\SIGPv2.FormInspecciones.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv9.2_20190922\SIGPv2\obj\x86\Debug\SIGPv2.FormInventario.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv9.2_20190922\SIGPv2\obj\x86\Debug\SIGPv2.FormLogin.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv9.2_20190922\SIGPv2\obj\x86\Debug\SIGPv2.FormLugaresDeTrabajo.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv9.2_20190922\SIGPv2\obj\x86\Debug\SIGPv2.FormMapa.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv9.2_20190922\SIGPv2\obj\x86\Debug\SIGPv2.FormMaquinas.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv9.2_20190922\SIGPv2\obj\x86\Debug\SIGPv2.FormNavegador.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv9.2_20190922\SIGPv2\obj\x86\Debug\SIGPv2.FormNuevoContrato.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv9.2_20190922\SIGPv2\obj\x86\Debug\SIGPv2.FormNuevoRelevamiento.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv9.2_20190922\SIGPv2\obj\x86\Debug\SIGPv2.FormNuevoTrabajador.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv9.2_20190922\SIGPv2\obj\x86\Debug\SIGPv2.FormPlanDeContingencia.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv9.2_20190922\SIGPv2\obj\x86\Debug\SIGPv2.FormPrincipal.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv9.2_20190922\SIGPv2\obj\x86\Debug\SIGPv2.FormReporte.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv9.2_20190922\SIGPv2\obj\x86\Debug\SIGPv2.FormTablaVC.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv9.2_20190922\SIGPv2\obj\x86\Debug\SIGPv2.FormTablaVE.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv9.2_20190922\SIGPv2\obj\x86\Debug\SIGPv2.FormTablaVP.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv9.2_20190922\SIGPv2\obj\x86\Debug\SIGPv2.FormUsuarios.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv9.2_20190922\SIGPv2\obj\x86\Debug\SIGPv2.Resources.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv9.2_20190922\SIGPv2\obj\x86\Debug\SIGPv2.vbproj.GenerateResource.Cache
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv9.3_20190923\SIGPv2\obj\x86\Debug\SIGPv2.exe
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv9.3_20190923\SIGPv2\obj\x86\Debug\SIGPv2.xml
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv9.3_20190923\SIGPv2\obj\x86\Debug\SIGPv2.pdb
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv9.3_20190923\SIGPv2\bin\Debug\SIGPv2.exe
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv9.3_20190923\SIGPv2\bin\Debug\SIGPv2.pdb
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv9.3_20190923\SIGPv2\bin\Debug\SIGPv2.xml
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv9.3_20190923\SIGPv2\obj\x86\Debug\SIGPv2.FormAbrirRelevamiento.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv9.3_20190923\SIGPv2\obj\x86\Debug\SIGPv2.FormBuscarMapa.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv9.3_20190923\SIGPv2\obj\x86\Debug\SIGPv2.FormCalculos.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv9.3_20190923\SIGPv2\obj\x86\Debug\SIGPv2.FormCuestionarios.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv9.3_20190923\SIGPv2\obj\x86\Debug\SIGPv2.FormEmpresa.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv9.3_20190923\SIGPv2\obj\x86\Debug\SIGPv2.FormGestionPrevencionistas.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv9.3_20190923\SIGPv2\obj\x86\Debug\SIGPv2.FormIncendios.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv9.3_20190923\SIGPv2\obj\x86\Debug\SIGPv2.FormInspecciones.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv9.3_20190923\SIGPv2\obj\x86\Debug\SIGPv2.FormInventario.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv9.3_20190923\SIGPv2\obj\x86\Debug\SIGPv2.FormLogin.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv9.3_20190923\SIGPv2\obj\x86\Debug\SIGPv2.FormLugaresDeTrabajo.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv9.3_20190923\SIGPv2\obj\x86\Debug\SIGPv2.FormMapa.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv9.3_20190923\SIGPv2\obj\x86\Debug\SIGPv2.FormMaquinas.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv9.3_20190923\SIGPv2\obj\x86\Debug\SIGPv2.FormNavegador.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv9.3_20190923\SIGPv2\obj\x86\Debug\SIGPv2.FormNuevoContrato.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv9.3_20190923\SIGPv2\obj\x86\Debug\SIGPv2.FormNuevoRelevamiento.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv9.3_20190923\SIGPv2\obj\x86\Debug\SIGPv2.FormNuevoTrabajador.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv9.3_20190923\SIGPv2\obj\x86\Debug\SIGPv2.FormPlanDeContingencia.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv9.3_20190923\SIGPv2\obj\x86\Debug\SIGPv2.FormPrincipal.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv9.3_20190923\SIGPv2\obj\x86\Debug\SIGPv2.FormReporte.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv9.3_20190923\SIGPv2\obj\x86\Debug\SIGPv2.FormTablaVC.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv9.3_20190923\SIGPv2\obj\x86\Debug\SIGPv2.FormTablaVE.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv9.3_20190923\SIGPv2\obj\x86\Debug\SIGPv2.FormTablaVP.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv9.3_20190923\SIGPv2\obj\x86\Debug\SIGPv2.FormUsuarios.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv9.3_20190923\SIGPv2\obj\x86\Debug\SIGPv2.Resources.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv9.3_20190923\SIGPv2\obj\x86\Debug\SIGPv2.vbproj.GenerateResource.Cache
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv10_20190923\SIGPv2\obj\x86\Debug\SIGPv2.exe
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv10_20190923\SIGPv2\obj\x86\Debug\SIGPv2.xml
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv10_20190923\SIGPv2\obj\x86\Debug\SIGPv2.pdb
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv10_20190923\SIGPv2\bin\Debug\SIGPv2.exe
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv10_20190923\SIGPv2\bin\Debug\SIGPv2.pdb
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv10_20190923\SIGPv2\bin\Debug\SIGPv2.xml
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv10_20190923\SIGPv2\obj\x86\Debug\SIGPv2.FormAbrirRelevamiento.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv10_20190923\SIGPv2\obj\x86\Debug\SIGPv2.FormBuscarMapa.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv10_20190923\SIGPv2\obj\x86\Debug\SIGPv2.FormCalculos.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv10_20190923\SIGPv2\obj\x86\Debug\SIGPv2.FormCuestionarios.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv10_20190923\SIGPv2\obj\x86\Debug\SIGPv2.FormEmpresa.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv10_20190923\SIGPv2\obj\x86\Debug\SIGPv2.FormGestionPrevencionistas.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv10_20190923\SIGPv2\obj\x86\Debug\SIGPv2.FormIncendios.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv10_20190923\SIGPv2\obj\x86\Debug\SIGPv2.FormInspecciones.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv10_20190923\SIGPv2\obj\x86\Debug\SIGPv2.FormInventario.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv10_20190923\SIGPv2\obj\x86\Debug\SIGPv2.FormLogin.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv10_20190923\SIGPv2\obj\x86\Debug\SIGPv2.FormLugaresDeTrabajo.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv10_20190923\SIGPv2\obj\x86\Debug\SIGPv2.FormMapa.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv10_20190923\SIGPv2\obj\x86\Debug\SIGPv2.FormMaquinas.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv10_20190923\SIGPv2\obj\x86\Debug\SIGPv2.FormNavegador.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv10_20190923\SIGPv2\obj\x86\Debug\SIGPv2.FormNuevoContrato.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv10_20190923\SIGPv2\obj\x86\Debug\SIGPv2.FormNuevoRelevamiento.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv10_20190923\SIGPv2\obj\x86\Debug\SIGPv2.FormNuevoTrabajador.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv10_20190923\SIGPv2\obj\x86\Debug\SIGPv2.FormPlanDeContingencia.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv10_20190923\SIGPv2\obj\x86\Debug\SIGPv2.FormPrincipal.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv10_20190923\SIGPv2\obj\x86\Debug\SIGPv2.FormReporte.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv10_20190923\SIGPv2\obj\x86\Debug\SIGPv2.FormTablaVC.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv10_20190923\SIGPv2\obj\x86\Debug\SIGPv2.FormTablaVE.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv10_20190923\SIGPv2\obj\x86\Debug\SIGPv2.FormTablaVP.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv10_20190923\SIGPv2\obj\x86\Debug\SIGPv2.FormUsuarios.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv10_20190923\SIGPv2\obj\x86\Debug\SIGPv2.Resources.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv10_20190923\SIGPv2\obj\x86\Debug\SIGPv2.vbproj.GenerateResource.Cache
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv11_20190924\SIGPv2\obj\x86\Debug\SIGPv2.exe
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv11_20190924\SIGPv2\obj\x86\Debug\SIGPv2.xml
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv11_20190924\SIGPv2\obj\x86\Debug\SIGPv2.pdb
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv11_20190924\SIGPv2\bin\Debug\SIGPv2.exe
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv11_20190924\SIGPv2\bin\Debug\SIGPv2.pdb
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv11_20190924\SIGPv2\bin\Debug\SIGPv2.xml
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv11_20190924\SIGPv2\obj\x86\Debug\SIGPv2.FormAbrirRelevamiento.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv11_20190924\SIGPv2\obj\x86\Debug\SIGPv2.FormBuscarMapa.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv11_20190924\SIGPv2\obj\x86\Debug\SIGPv2.FormCalculos.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv11_20190924\SIGPv2\obj\x86\Debug\SIGPv2.FormCuestionarios.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv11_20190924\SIGPv2\obj\x86\Debug\SIGPv2.FormEmpresa.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv11_20190924\SIGPv2\obj\x86\Debug\SIGPv2.FormGestionPrevencionistas.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv11_20190924\SIGPv2\obj\x86\Debug\SIGPv2.FormCuestionarioIncendios.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv11_20190924\SIGPv2\obj\x86\Debug\SIGPv2.FormInspecciones.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv11_20190924\SIGPv2\obj\x86\Debug\SIGPv2.FormInventario.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv11_20190924\SIGPv2\obj\x86\Debug\SIGPv2.FormLogin.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv11_20190924\SIGPv2\obj\x86\Debug\SIGPv2.FormCuestionarioLugaresDeTrabajo.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv11_20190924\SIGPv2\obj\x86\Debug\SIGPv2.FormMapa.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv11_20190924\SIGPv2\obj\x86\Debug\SIGPv2.FormCuestionarioMaquinas.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv11_20190924\SIGPv2\obj\x86\Debug\SIGPv2.FormNavegador.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv11_20190924\SIGPv2\obj\x86\Debug\SIGPv2.FormNuevoContrato.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv11_20190924\SIGPv2\obj\x86\Debug\SIGPv2.FormNuevoRelevamiento.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv11_20190924\SIGPv2\obj\x86\Debug\SIGPv2.FormNuevoTrabajador.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv11_20190924\SIGPv2\obj\x86\Debug\SIGPv2.FormPlanDeContingencia.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv11_20190924\SIGPv2\obj\x86\Debug\SIGPv2.FormPrincipal.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv11_20190924\SIGPv2\obj\x86\Debug\SIGPv2.FormReporte.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv11_20190924\SIGPv2\obj\x86\Debug\SIGPv2.FormTablaVC.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv11_20190924\SIGPv2\obj\x86\Debug\SIGPv2.FormTablaVE.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv11_20190924\SIGPv2\obj\x86\Debug\SIGPv2.FormTablaVP.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv11_20190924\SIGPv2\obj\x86\Debug\SIGPv2.FormUsuarios.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv11_20190924\SIGPv2\obj\x86\Debug\SIGPv2.Resources.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv11_20190924\SIGPv2\obj\x86\Debug\SIGPv2.vbproj.GenerateResource.Cache
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv11_20190924\SIGPv2\obj\x86\Debug\SIGPv2.FormCuestionarioPrueba.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv11_20190924\SIGPv2\obj\x86\Debug\SIGPv2.FormAPOYO.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv11.1_20190925\SIGPv2\obj\x86\Debug\SIGPv2.exe
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv11.1_20190925\SIGPv2\obj\x86\Debug\SIGPv2.xml
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv11.1_20190925\SIGPv2\obj\x86\Debug\SIGPv2.pdb
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv11.1_20190925\SIGPv2\obj\x86\Debug\SIGPv2.FormAbrirRelevamiento.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv11.1_20190925\SIGPv2\obj\x86\Debug\SIGPv2.FormAPOYO.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv11.1_20190925\SIGPv2\obj\x86\Debug\SIGPv2.FormBuscarMapa.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv11.1_20190925\SIGPv2\obj\x86\Debug\SIGPv2.FormCalculos.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv11.1_20190925\SIGPv2\obj\x86\Debug\SIGPv2.FormCuestionarioPrueba.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv11.1_20190925\SIGPv2\obj\x86\Debug\SIGPv2.FormCuestionarios.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv11.1_20190925\SIGPv2\obj\x86\Debug\SIGPv2.FormEmpresa.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv11.1_20190925\SIGPv2\obj\x86\Debug\SIGPv2.FormGestionPrevencionistas.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv11.1_20190925\SIGPv2\obj\x86\Debug\SIGPv2.FormCuestionarioIncendios.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv11.1_20190925\SIGPv2\obj\x86\Debug\SIGPv2.FormInspecciones.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv11.1_20190925\SIGPv2\obj\x86\Debug\SIGPv2.FormInventario.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv11.1_20190925\SIGPv2\obj\x86\Debug\SIGPv2.FormLogin.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv11.1_20190925\SIGPv2\obj\x86\Debug\SIGPv2.FormCuestionarioLugaresDeTrabajo.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv11.1_20190925\SIGPv2\obj\x86\Debug\SIGPv2.FormMapa.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv11.1_20190925\SIGPv2\obj\x86\Debug\SIGPv2.FormCuestionarioMaquinas.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv11.1_20190925\SIGPv2\obj\x86\Debug\SIGPv2.FormNavegador.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv11.1_20190925\SIGPv2\obj\x86\Debug\SIGPv2.FormNuevoContrato.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv11.1_20190925\SIGPv2\obj\x86\Debug\SIGPv2.FormNuevoRelevamiento.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv11.1_20190925\SIGPv2\obj\x86\Debug\SIGPv2.FormNuevoTrabajador.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv11.1_20190925\SIGPv2\obj\x86\Debug\SIGPv2.FormPlanDeContingencia.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv11.1_20190925\SIGPv2\obj\x86\Debug\SIGPv2.FormPrincipal.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv11.1_20190925\SIGPv2\obj\x86\Debug\SIGPv2.FormReporte.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv11.1_20190925\SIGPv2\obj\x86\Debug\SIGPv2.FormTablaVC.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv11.1_20190925\SIGPv2\obj\x86\Debug\SIGPv2.FormTablaVE.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv11.1_20190925\SIGPv2\obj\x86\Debug\SIGPv2.FormTablaVP.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv11.1_20190925\SIGPv2\obj\x86\Debug\SIGPv2.FormUsuarios.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv11.1_20190925\SIGPv2\obj\x86\Debug\SIGPv2.Resources.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv11.1_20190925\SIGPv2\obj\x86\Debug\SIGPv2.vbproj.GenerateResource.Cache
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv11.1_20190925\SIGPv2\bin\Debug\SIGPv2.exe
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv11.1_20190925\SIGPv2\bin\Debug\SIGPv2.pdb
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv11.1_20190925\SIGPv2\bin\Debug\SIGPv2.xml
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv12_20190925\SIGPv2\obj\x86\Debug\SIGPv2.exe
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv12_20190925\SIGPv2\obj\x86\Debug\SIGPv2.xml
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv12_20190925\SIGPv2\obj\x86\Debug\SIGPv2.pdb
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv12_20190925\SIGPv2\bin\Debug\SIGPv2.exe
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv12_20190925\SIGPv2\bin\Debug\SIGPv2.pdb
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv12_20190925\SIGPv2\bin\Debug\SIGPv2.xml
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv12_20190925\SIGPv2\obj\x86\Debug\SIGPv2.FormAbrirRelevamiento.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv12_20190925\SIGPv2\obj\x86\Debug\SIGPv2.FormAPOYO.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv12_20190925\SIGPv2\obj\x86\Debug\SIGPv2.FormBuscarMapa.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv12_20190925\SIGPv2\obj\x86\Debug\SIGPv2.FormCalculos.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv12_20190925\SIGPv2\obj\x86\Debug\SIGPv2.FormCuestionarios.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv12_20190925\SIGPv2\obj\x86\Debug\SIGPv2.FormEmpresa.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv12_20190925\SIGPv2\obj\x86\Debug\SIGPv2.FormGestionPrevencionistas.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv12_20190925\SIGPv2\obj\x86\Debug\SIGPv2.FormCuestionarioIncendios.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv12_20190925\SIGPv2\obj\x86\Debug\SIGPv2.FormInspecciones.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv12_20190925\SIGPv2\obj\x86\Debug\SIGPv2.FormInventario.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv12_20190925\SIGPv2\obj\x86\Debug\SIGPv2.FormLogin.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv12_20190925\SIGPv2\obj\x86\Debug\SIGPv2.FormCuestionarioLugaresDeTrabajo.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv12_20190925\SIGPv2\obj\x86\Debug\SIGPv2.FormMapa.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv12_20190925\SIGPv2\obj\x86\Debug\SIGPv2.FormCuestionarioMaquinas.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv12_20190925\SIGPv2\obj\x86\Debug\SIGPv2.FormNavegador.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv12_20190925\SIGPv2\obj\x86\Debug\SIGPv2.FormNuevoContrato.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv12_20190925\SIGPv2\obj\x86\Debug\SIGPv2.FormNuevoRelevamiento.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv12_20190925\SIGPv2\obj\x86\Debug\SIGPv2.FormNuevoTrabajador.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv12_20190925\SIGPv2\obj\x86\Debug\SIGPv2.FormPlanDeContingencia.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv12_20190925\SIGPv2\obj\x86\Debug\SIGPv2.FormPrincipal.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv12_20190925\SIGPv2\obj\x86\Debug\SIGPv2.FormReporte.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv12_20190925\SIGPv2\obj\x86\Debug\SIGPv2.FormTablaVC.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv12_20190925\SIGPv2\obj\x86\Debug\SIGPv2.FormTablaVE.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv12_20190925\SIGPv2\obj\x86\Debug\SIGPv2.FormTablaVP.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv12_20190925\SIGPv2\obj\x86\Debug\SIGPv2.FormUsuarios.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv12_20190925\SIGPv2\obj\x86\Debug\SIGPv2.Resources.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv12_20190925\SIGPv2\obj\x86\Debug\SIGPv2.vbproj.GenerateResource.Cache
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv13_20190925\SIGPv2\obj\x86\Debug\SIGPv2.exe
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv13_20190925\SIGPv2\obj\x86\Debug\SIGPv2.xml
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv13_20190925\SIGPv2\obj\x86\Debug\SIGPv2.pdb
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv13_20190925\SIGPv2\bin\Debug\SIGPv2.exe
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv13_20190925\SIGPv2\bin\Debug\SIGPv2.pdb
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv13_20190925\SIGPv2\bin\Debug\SIGPv2.xml
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv13_20190925\SIGPv2\obj\x86\Debug\SIGPv2.FormAbrirRelevamiento.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv13_20190925\SIGPv2\obj\x86\Debug\SIGPv2.FormAPOYO.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv13_20190925\SIGPv2\obj\x86\Debug\SIGPv2.FormBuscarMapa.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv13_20190925\SIGPv2\obj\x86\Debug\SIGPv2.FormCalculos.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv13_20190925\SIGPv2\obj\x86\Debug\SIGPv2.FormCuestionarioLugaresDeTrabajo.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv13_20190925\SIGPv2\obj\x86\Debug\SIGPv2.FormCuestionarios.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv13_20190925\SIGPv2\obj\x86\Debug\SIGPv2.FormEmpresa.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv13_20190925\SIGPv2\obj\x86\Debug\SIGPv2.FormGestionPrevencionistas.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv13_20190925\SIGPv2\obj\x86\Debug\SIGPv2.FormCuestionarioIncendios.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv13_20190925\SIGPv2\obj\x86\Debug\SIGPv2.FormInspecciones.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv13_20190925\SIGPv2\obj\x86\Debug\SIGPv2.FormInventario.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv13_20190925\SIGPv2\obj\x86\Debug\SIGPv2.FormLogin.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv13_20190925\SIGPv2\obj\x86\Debug\SIGPv2.FormMapa.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv13_20190925\SIGPv2\obj\x86\Debug\SIGPv2.FormCuestionarioMaquinas.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv13_20190925\SIGPv2\obj\x86\Debug\SIGPv2.FormNavegador.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv13_20190925\SIGPv2\obj\x86\Debug\SIGPv2.FormNuevoContrato.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv13_20190925\SIGPv2\obj\x86\Debug\SIGPv2.FormNuevoRelevamiento.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv13_20190925\SIGPv2\obj\x86\Debug\SIGPv2.FormNuevoTrabajador.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv13_20190925\SIGPv2\obj\x86\Debug\SIGPv2.FormPlanDeContingencia.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv13_20190925\SIGPv2\obj\x86\Debug\SIGPv2.FormPrincipal.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv13_20190925\SIGPv2\obj\x86\Debug\SIGPv2.FormReporte.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv13_20190925\SIGPv2\obj\x86\Debug\SIGPv2.FormTablaVC.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv13_20190925\SIGPv2\obj\x86\Debug\SIGPv2.FormTablaVE.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv13_20190925\SIGPv2\obj\x86\Debug\SIGPv2.FormTablaVP.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv13_20190925\SIGPv2\obj\x86\Debug\SIGPv2.FormUsuarios.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv13_20190925\SIGPv2\obj\x86\Debug\SIGPv2.Resources.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv13_20190925\SIGPv2\obj\x86\Debug\SIGPv2.vbproj.GenerateResource.Cache
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv13.1_20190926\SIGPv2\obj\x86\Debug\SIGPv2.exe
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv13.1_20190926\SIGPv2\obj\x86\Debug\SIGPv2.xml
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv13.1_20190926\SIGPv2\obj\x86\Debug\SIGPv2.pdb
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv13.1_20190926\SIGPv2\bin\Debug\SIGPv2.exe
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv13.1_20190926\SIGPv2\bin\Debug\SIGPv2.pdb
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv13.1_20190926\SIGPv2\bin\Debug\SIGPv2.xml
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv13.1_20190926\SIGPv2\obj\x86\Debug\SIGPv2.FormAbrirRelevamiento.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv13.1_20190926\SIGPv2\obj\x86\Debug\SIGPv2.FormAPOYO.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv13.1_20190926\SIGPv2\obj\x86\Debug\SIGPv2.FormBuscarMapa.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv13.1_20190926\SIGPv2\obj\x86\Debug\SIGPv2.FormCalculos.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv13.1_20190926\SIGPv2\obj\x86\Debug\SIGPv2.FormCuestionarioLugaresDeTrabajo.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv13.1_20190926\SIGPv2\obj\x86\Debug\SIGPv2.FormCuestionarios.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv13.1_20190926\SIGPv2\obj\x86\Debug\SIGPv2.FormEmpresa.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv13.1_20190926\SIGPv2\obj\x86\Debug\SIGPv2.FormGestionPrevencionistas.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv13.1_20190926\SIGPv2\obj\x86\Debug\SIGPv2.FormCuestionarioIncendios.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv13.1_20190926\SIGPv2\obj\x86\Debug\SIGPv2.FormInspecciones.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv13.1_20190926\SIGPv2\obj\x86\Debug\SIGPv2.FormInventario.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv13.1_20190926\SIGPv2\obj\x86\Debug\SIGPv2.FormLogin.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv13.1_20190926\SIGPv2\obj\x86\Debug\SIGPv2.FormMapa.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv13.1_20190926\SIGPv2\obj\x86\Debug\SIGPv2.FormCuestionarioMaquinas.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv13.1_20190926\SIGPv2\obj\x86\Debug\SIGPv2.FormNavegador.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv13.1_20190926\SIGPv2\obj\x86\Debug\SIGPv2.FormNuevoContrato.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv13.1_20190926\SIGPv2\obj\x86\Debug\SIGPv2.FormNuevoRelevamiento.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv13.1_20190926\SIGPv2\obj\x86\Debug\SIGPv2.FormNuevoTrabajador.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv13.1_20190926\SIGPv2\obj\x86\Debug\SIGPv2.FormPlanDeContingencia.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv13.1_20190926\SIGPv2\obj\x86\Debug\SIGPv2.FormPrincipal.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv13.1_20190926\SIGPv2\obj\x86\Debug\SIGPv2.FormReporte.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv13.1_20190926\SIGPv2\obj\x86\Debug\SIGPv2.FormTablaVC.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv13.1_20190926\SIGPv2\obj\x86\Debug\SIGPv2.FormTablaVE.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv13.1_20190926\SIGPv2\obj\x86\Debug\SIGPv2.FormTablaVP.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv13.1_20190926\SIGPv2\obj\x86\Debug\SIGPv2.FormUsuarios.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv13.1_20190926\SIGPv2\obj\x86\Debug\SIGPv2.Resources.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv13.1_20190926\SIGPv2\obj\x86\Debug\SIGPv2.vbproj.GenerateResource.Cache
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv13.2_20190926\SIGPv2\obj\x86\Debug\SIGPv2.exe
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv13.2_20190926\SIGPv2\obj\x86\Debug\SIGPv2.xml
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv13.2_20190926\SIGPv2\obj\x86\Debug\SIGPv2.pdb
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv13.2_20190926\SIGPv2\obj\x86\Debug\SIGPv2.FormAbrirRelevamiento.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv13.2_20190926\SIGPv2\obj\x86\Debug\SIGPv2.FormAPOYO.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv13.2_20190926\SIGPv2\obj\x86\Debug\SIGPv2.FormBuscarMapa.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv13.2_20190926\SIGPv2\obj\x86\Debug\SIGPv2.FormCalculos.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv13.2_20190926\SIGPv2\obj\x86\Debug\SIGPv2.FormCuestionarioLugaresDeTrabajo.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv13.2_20190926\SIGPv2\obj\x86\Debug\SIGPv2.FormCuestionarios.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv13.2_20190926\SIGPv2\obj\x86\Debug\SIGPv2.FormEmpresa.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv13.2_20190926\SIGPv2\obj\x86\Debug\SIGPv2.FormGestionPrevencionistas.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv13.2_20190926\SIGPv2\obj\x86\Debug\SIGPv2.FormCuestionarioIncendios.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv13.2_20190926\SIGPv2\obj\x86\Debug\SIGPv2.FormInspecciones.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv13.2_20190926\SIGPv2\obj\x86\Debug\SIGPv2.FormInventario.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv13.2_20190926\SIGPv2\obj\x86\Debug\SIGPv2.FormLogin.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv13.2_20190926\SIGPv2\obj\x86\Debug\SIGPv2.FormMapa.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv13.2_20190926\SIGPv2\obj\x86\Debug\SIGPv2.FormCuestionarioMaquinas.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv13.2_20190926\SIGPv2\obj\x86\Debug\SIGPv2.FormNavegador.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv13.2_20190926\SIGPv2\obj\x86\Debug\SIGPv2.FormNuevoContrato.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv13.2_20190926\SIGPv2\obj\x86\Debug\SIGPv2.FormNuevoRelevamiento.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv13.2_20190926\SIGPv2\obj\x86\Debug\SIGPv2.FormNuevoTrabajador.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv13.2_20190926\SIGPv2\obj\x86\Debug\SIGPv2.FormPlanDeContingencia.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv13.2_20190926\SIGPv2\obj\x86\Debug\SIGPv2.FormPrincipal.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv13.2_20190926\SIGPv2\obj\x86\Debug\SIGPv2.FormReporte.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv13.2_20190926\SIGPv2\obj\x86\Debug\SIGPv2.FormTablaVC.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv13.2_20190926\SIGPv2\obj\x86\Debug\SIGPv2.FormTablaVE.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv13.2_20190926\SIGPv2\obj\x86\Debug\SIGPv2.FormTablaVP.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv13.2_20190926\SIGPv2\obj\x86\Debug\SIGPv2.FormUsuarios.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv13.2_20190926\SIGPv2\obj\x86\Debug\SIGPv2.Resources.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv13.2_20190926\SIGPv2\obj\x86\Debug\SIGPv2.vbproj.GenerateResource.Cache
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv13.2_20190926\SIGPv2\bin\Debug\SIGPv2.exe
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv13.2_20190926\SIGPv2\bin\Debug\SIGPv2.pdb
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv13.2_20190926\SIGPv2\bin\Debug\SIGPv2.xml
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv14_20190926\SIGPv2\obj\x86\Debug\SIGPv2.exe
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv14_20190926\SIGPv2\obj\x86\Debug\SIGPv2.xml
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv14_20190926\SIGPv2\obj\x86\Debug\SIGPv2.pdb
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv14_20190926\SIGPv2\obj\x86\Debug\SIGPv2.FormAbrirRelevamiento.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv14_20190926\SIGPv2\obj\x86\Debug\SIGPv2.FormBuscarMapa.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv14_20190926\SIGPv2\obj\x86\Debug\SIGPv2.FormCalculos.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv14_20190926\SIGPv2\obj\x86\Debug\SIGPv2.FormCuestionarioLugaresDeTrabajo.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv14_20190926\SIGPv2\obj\x86\Debug\SIGPv2.FormCuestionarios.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv14_20190926\SIGPv2\obj\x86\Debug\SIGPv2.FormEmpresa.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv14_20190926\SIGPv2\obj\x86\Debug\SIGPv2.FormGestionPrevencionistas.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv14_20190926\SIGPv2\obj\x86\Debug\SIGPv2.FormCuestionarioIncendios.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv14_20190926\SIGPv2\obj\x86\Debug\SIGPv2.FormInspecciones.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv14_20190926\SIGPv2\obj\x86\Debug\SIGPv2.FormInventario.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv14_20190926\SIGPv2\obj\x86\Debug\SIGPv2.FormLogin.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv14_20190926\SIGPv2\obj\x86\Debug\SIGPv2.FormMapa.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv14_20190926\SIGPv2\obj\x86\Debug\SIGPv2.FormCuestionarioMaquinas.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv14_20190926\SIGPv2\obj\x86\Debug\SIGPv2.FormNavegador.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv14_20190926\SIGPv2\obj\x86\Debug\SIGPv2.FormNuevoContrato.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv14_20190926\SIGPv2\obj\x86\Debug\SIGPv2.FormNuevoRelevamiento.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv14_20190926\SIGPv2\obj\x86\Debug\SIGPv2.FormNuevoTrabajador.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv14_20190926\SIGPv2\obj\x86\Debug\SIGPv2.FormPlanDeContingencia.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv14_20190926\SIGPv2\obj\x86\Debug\SIGPv2.FormPrincipal.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv14_20190926\SIGPv2\obj\x86\Debug\SIGPv2.FormReporte.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv14_20190926\SIGPv2\obj\x86\Debug\SIGPv2.FormTablaVC.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv14_20190926\SIGPv2\obj\x86\Debug\SIGPv2.FormTablaVE.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv14_20190926\SIGPv2\obj\x86\Debug\SIGPv2.FormTablaVP.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv14_20190926\SIGPv2\obj\x86\Debug\SIGPv2.FormUsuarios.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv14_20190926\SIGPv2\obj\x86\Debug\SIGPv2.Resources.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv14_20190926\SIGPv2\obj\x86\Debug\SIGPv2.vbproj.GenerateResource.Cache
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv14_20190926\SIGPv2\bin\Debug\SIGPv2.exe
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv14_20190926\SIGPv2\bin\Debug\SIGPv2.pdb
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv14_20190926\SIGPv2\bin\Debug\SIGPv2.xml
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv15_20190928\SIGPv2\obj\x86\Debug\SIGPv2.exe
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv15_20190928\SIGPv2\obj\x86\Debug\SIGPv2.xml
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv15_20190928\SIGPv2\obj\x86\Debug\SIGPv2.pdb
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv15_20190928\SIGPv2\bin\Debug\SIGPv2.exe
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv15_20190928\SIGPv2\bin\Debug\SIGPv2.pdb
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv15_20190928\SIGPv2\bin\Debug\SIGPv2.xml
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv15_20190928\SIGPv2\obj\x86\Debug\SIGPv2.FormAbrirRelevamiento.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv15_20190928\SIGPv2\obj\x86\Debug\SIGPv2.FormBuscarMapa.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv15_20190928\SIGPv2\obj\x86\Debug\SIGPv2.FormCalculos.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv15_20190928\SIGPv2\obj\x86\Debug\SIGPv2.FormCuestionarioLugaresDeTrabajo.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv15_20190928\SIGPv2\obj\x86\Debug\SIGPv2.FormCuestionarios.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv15_20190928\SIGPv2\obj\x86\Debug\SIGPv2.FormEmpresa.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv15_20190928\SIGPv2\obj\x86\Debug\SIGPv2.FormGestionPrevencionistas.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv15_20190928\SIGPv2\obj\x86\Debug\SIGPv2.FormCuestionarioIncendios.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv15_20190928\SIGPv2\obj\x86\Debug\SIGPv2.FormInspecciones.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv15_20190928\SIGPv2\obj\x86\Debug\SIGPv2.FormInventario.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv15_20190928\SIGPv2\obj\x86\Debug\SIGPv2.FormLogin.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv15_20190928\SIGPv2\obj\x86\Debug\SIGPv2.FormMapa.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv15_20190928\SIGPv2\obj\x86\Debug\SIGPv2.FormCuestionarioMaquinas.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv15_20190928\SIGPv2\obj\x86\Debug\SIGPv2.FormNavegador.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv15_20190928\SIGPv2\obj\x86\Debug\SIGPv2.FormNuevoContrato.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv15_20190928\SIGPv2\obj\x86\Debug\SIGPv2.FormNuevoRelevamiento.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv15_20190928\SIGPv2\obj\x86\Debug\SIGPv2.FormNuevoTrabajador.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv15_20190928\SIGPv2\obj\x86\Debug\SIGPv2.FormPlanDeContingencia.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv15_20190928\SIGPv2\obj\x86\Debug\SIGPv2.FormPrincipal.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv15_20190928\SIGPv2\obj\x86\Debug\SIGPv2.FormReporte.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv15_20190928\SIGPv2\obj\x86\Debug\SIGPv2.FormTablaVC.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv15_20190928\SIGPv2\obj\x86\Debug\SIGPv2.FormTablaVE.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv15_20190928\SIGPv2\obj\x86\Debug\SIGPv2.FormTablaVP.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv15_20190928\SIGPv2\obj\x86\Debug\SIGPv2.FormUsuarios.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv15_20190928\SIGPv2\obj\x86\Debug\SIGPv2.Resources.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv15_20190928\SIGPv2\obj\x86\Debug\SIGPv2.vbproj.GenerateResource.Cache
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv16_20190929\SIGPv2\obj\x86\Debug\SIGPv2.exe
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv16_20190929\SIGPv2\obj\x86\Debug\SIGPv2.xml
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv16_20190929\SIGPv2\obj\x86\Debug\SIGPv2.pdb
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv16_20190929\SIGPv2\bin\Debug\SIGPv2.exe
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv16_20190929\SIGPv2\bin\Debug\SIGPv2.pdb
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv16_20190929\SIGPv2\bin\Debug\SIGPv2.xml
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv16_20190929\SIGPv2\obj\x86\Debug\SIGPv2.FormAbrirRelevamiento.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv16_20190929\SIGPv2\obj\x86\Debug\SIGPv2.FormBuscarMapa.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv16_20190929\SIGPv2\obj\x86\Debug\SIGPv2.FormCalculos.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv16_20190929\SIGPv2\obj\x86\Debug\SIGPv2.FormCuestionarioLugaresDeTrabajo.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv16_20190929\SIGPv2\obj\x86\Debug\SIGPv2.FormCuestionarios.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv16_20190929\SIGPv2\obj\x86\Debug\SIGPv2.FormEmpresa.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv16_20190929\SIGPv2\obj\x86\Debug\SIGPv2.FormGestionPrevencionistas.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv16_20190929\SIGPv2\obj\x86\Debug\SIGPv2.FormCuestionarioIncendios.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv16_20190929\SIGPv2\obj\x86\Debug\SIGPv2.FormInspecciones.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv16_20190929\SIGPv2\obj\x86\Debug\SIGPv2.FormInventario.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv16_20190929\SIGPv2\obj\x86\Debug\SIGPv2.FormLogin.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv16_20190929\SIGPv2\obj\x86\Debug\SIGPv2.FormMapa.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv16_20190929\SIGPv2\obj\x86\Debug\SIGPv2.FormCuestionarioMaquinas.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv16_20190929\SIGPv2\obj\x86\Debug\SIGPv2.FormNavegador.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv16_20190929\SIGPv2\obj\x86\Debug\SIGPv2.FormNuevoContrato.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv16_20190929\SIGPv2\obj\x86\Debug\SIGPv2.FormNuevoRelevamiento.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv16_20190929\SIGPv2\obj\x86\Debug\SIGPv2.FormNuevoTrabajador.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv16_20190929\SIGPv2\obj\x86\Debug\SIGPv2.FormPlanDeContingencia.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv16_20190929\SIGPv2\obj\x86\Debug\SIGPv2.FormPrincipal.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv16_20190929\SIGPv2\obj\x86\Debug\SIGPv2.FormReporte.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv16_20190929\SIGPv2\obj\x86\Debug\SIGPv2.FormTablaVC.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv16_20190929\SIGPv2\obj\x86\Debug\SIGPv2.FormTablaVE.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv16_20190929\SIGPv2\obj\x86\Debug\SIGPv2.FormTablaVP.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv16_20190929\SIGPv2\obj\x86\Debug\SIGPv2.FormUsuarios.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv16_20190929\SIGPv2\obj\x86\Debug\SIGPv2.Resources.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv16_20190929\SIGPv2\obj\x86\Debug\SIGPv2.vbproj.GenerateResource.Cache
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv16.1_20190929\SIGPv2\obj\x86\Debug\SIGPv2.exe
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv16.1_20190929\SIGPv2\obj\x86\Debug\SIGPv2.xml
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv16.1_20190929\SIGPv2\obj\x86\Debug\SIGPv2.pdb
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv16.1_20190929\SIGPv2\bin\Debug\SIGPv2.exe
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv16.1_20190929\SIGPv2\bin\Debug\SIGPv2.pdb
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv16.1_20190929\SIGPv2\bin\Debug\SIGPv2.xml
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv16.1_20190929\SIGPv2\obj\x86\Debug\SIGPv2.FormAbrirRelevamiento.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv16.1_20190929\SIGPv2\obj\x86\Debug\SIGPv2.FormBuscarMapa.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv16.1_20190929\SIGPv2\obj\x86\Debug\SIGPv2.FormCalculos.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv16.1_20190929\SIGPv2\obj\x86\Debug\SIGPv2.FormCuestionarioLugaresDeTrabajo.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv16.1_20190929\SIGPv2\obj\x86\Debug\SIGPv2.FormCuestionarios.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv16.1_20190929\SIGPv2\obj\x86\Debug\SIGPv2.FormEmpresa.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv16.1_20190929\SIGPv2\obj\x86\Debug\SIGPv2.FormGestionPrevencionistas.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv16.1_20190929\SIGPv2\obj\x86\Debug\SIGPv2.FormCuestionarioIncendios.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv16.1_20190929\SIGPv2\obj\x86\Debug\SIGPv2.FormInspecciones.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv16.1_20190929\SIGPv2\obj\x86\Debug\SIGPv2.FormInventario.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv16.1_20190929\SIGPv2\obj\x86\Debug\SIGPv2.FormLogin.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv16.1_20190929\SIGPv2\obj\x86\Debug\SIGPv2.FormMapa.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv16.1_20190929\SIGPv2\obj\x86\Debug\SIGPv2.FormCuestionarioMaquinas.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv16.1_20190929\SIGPv2\obj\x86\Debug\SIGPv2.FormNavegador.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv16.1_20190929\SIGPv2\obj\x86\Debug\SIGPv2.FormNuevoContrato.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv16.1_20190929\SIGPv2\obj\x86\Debug\SIGPv2.FormNuevoRelevamiento.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv16.1_20190929\SIGPv2\obj\x86\Debug\SIGPv2.FormNuevoTrabajador.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv16.1_20190929\SIGPv2\obj\x86\Debug\SIGPv2.FormPlanDeContingencia.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv16.1_20190929\SIGPv2\obj\x86\Debug\SIGPv2.FormPrincipal.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv16.1_20190929\SIGPv2\obj\x86\Debug\SIGPv2.FormReporte.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv16.1_20190929\SIGPv2\obj\x86\Debug\SIGPv2.FormUsuarios.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv16.1_20190929\SIGPv2\obj\x86\Debug\SIGPv2.Resources.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv16.1_20190929\SIGPv2\obj\x86\Debug\SIGPv2.vbproj.GenerateResource.Cache
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv16.2_20190930\SIGPv2\obj\x86\Debug\SIGPv2.exe
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv16.2_20190930\SIGPv2\obj\x86\Debug\SIGPv2.xml
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv16.2_20190930\SIGPv2\obj\x86\Debug\SIGPv2.pdb
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv16.2_20190930\SIGPv2\bin\Debug\SIGPv2.exe
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv16.2_20190930\SIGPv2\bin\Debug\SIGPv2.pdb
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv16.2_20190930\SIGPv2\bin\Debug\SIGPv2.xml
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv16.2_20190930\SIGPv2\obj\x86\Debug\SIGPv2.FormAbrirRelevamiento.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv16.2_20190930\SIGPv2\obj\x86\Debug\SIGPv2.FormBuscarMapa.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv16.2_20190930\SIGPv2\obj\x86\Debug\SIGPv2.FormCalculos.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv16.2_20190930\SIGPv2\obj\x86\Debug\SIGPv2.FormCuestionarioLugaresDeTrabajo.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv16.2_20190930\SIGPv2\obj\x86\Debug\SIGPv2.FormCuestionarios.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv16.2_20190930\SIGPv2\obj\x86\Debug\SIGPv2.FormEmpresa.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv16.2_20190930\SIGPv2\obj\x86\Debug\SIGPv2.FormGestionPrevencionistas.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv16.2_20190930\SIGPv2\obj\x86\Debug\SIGPv2.FormCuestionarioIncendios.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv16.2_20190930\SIGPv2\obj\x86\Debug\SIGPv2.FormInspecciones.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv16.2_20190930\SIGPv2\obj\x86\Debug\SIGPv2.FormInventario.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv16.2_20190930\SIGPv2\obj\x86\Debug\SIGPv2.FormLogin.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv16.2_20190930\SIGPv2\obj\x86\Debug\SIGPv2.FormMapa.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv16.2_20190930\SIGPv2\obj\x86\Debug\SIGPv2.FormCuestionarioMaquinas.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv16.2_20190930\SIGPv2\obj\x86\Debug\SIGPv2.FormNavegador.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv16.2_20190930\SIGPv2\obj\x86\Debug\SIGPv2.FormNuevoContrato.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv16.2_20190930\SIGPv2\obj\x86\Debug\SIGPv2.FormNuevoRelevamiento.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv16.2_20190930\SIGPv2\obj\x86\Debug\SIGPv2.FormNuevoTrabajador.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv16.2_20190930\SIGPv2\obj\x86\Debug\SIGPv2.FormPlanDeContingencia.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv16.2_20190930\SIGPv2\obj\x86\Debug\SIGPv2.FormPrincipal.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv16.2_20190930\SIGPv2\obj\x86\Debug\SIGPv2.FormReporte.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv16.2_20190930\SIGPv2\obj\x86\Debug\SIGPv2.FormUsuarios.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv16.2_20190930\SIGPv2\obj\x86\Debug\SIGPv2.Resources.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv16.2_20190930\SIGPv2\obj\x86\Debug\SIGPv2.vbproj.GenerateResource.Cache
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv17_20191001\SIGPv2\obj\x86\Debug\SIGPv2.exe
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv17_20191001\SIGPv2\obj\x86\Debug\SIGPv2.xml
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv17_20191001\SIGPv2\obj\x86\Debug\SIGPv2.pdb
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv17_20191001\SIGPv2\bin\Debug\SIGPv2.exe
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv17_20191001\SIGPv2\bin\Debug\SIGPv2.pdb
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv17_20191001\SIGPv2\bin\Debug\SIGPv2.xml
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv17_20191001\SIGPv2\obj\x86\Debug\SIGPv2.FormAbrirRelevamiento.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv17_20191001\SIGPv2\obj\x86\Debug\SIGPv2.FormBuscarMapa.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv17_20191001\SIGPv2\obj\x86\Debug\SIGPv2.FormCalculos.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv17_20191001\SIGPv2\obj\x86\Debug\SIGPv2.FormCuestionarioLugaresDeTrabajo.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv17_20191001\SIGPv2\obj\x86\Debug\SIGPv2.FormCuestionarios.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv17_20191001\SIGPv2\obj\x86\Debug\SIGPv2.FormEmpresa.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv17_20191001\SIGPv2\obj\x86\Debug\SIGPv2.FormGestionPrevencionistas.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv17_20191001\SIGPv2\obj\x86\Debug\SIGPv2.FormCuestionarioIncendios.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv17_20191001\SIGPv2\obj\x86\Debug\SIGPv2.FormInspecciones.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv17_20191001\SIGPv2\obj\x86\Debug\SIGPv2.FormInventario.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv17_20191001\SIGPv2\obj\x86\Debug\SIGPv2.FormLogin.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv17_20191001\SIGPv2\obj\x86\Debug\SIGPv2.FormMapa.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv17_20191001\SIGPv2\obj\x86\Debug\SIGPv2.FormCuestionarioMaquinas.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv17_20191001\SIGPv2\obj\x86\Debug\SIGPv2.FormNavegador.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv17_20191001\SIGPv2\obj\x86\Debug\SIGPv2.FormNuevoContrato.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv17_20191001\SIGPv2\obj\x86\Debug\SIGPv2.FormNuevoRelevamiento.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv17_20191001\SIGPv2\obj\x86\Debug\SIGPv2.FormNuevoTrabajador.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv17_20191001\SIGPv2\obj\x86\Debug\SIGPv2.FormPlanDeContingencia.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv17_20191001\SIGPv2\obj\x86\Debug\SIGPv2.FormPrincipal.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv17_20191001\SIGPv2\obj\x86\Debug\SIGPv2.FormReporte.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv17_20191001\SIGPv2\obj\x86\Debug\SIGPv2.FormUsuarios.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv17_20191001\SIGPv2\obj\x86\Debug\SIGPv2.Resources.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv17_20191001\SIGPv2\obj\x86\Debug\SIGPv2.vbproj.GenerateResource.Cache
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv17_20191001\SIGPv2\obj\x86\Debug\SIGPv2.FormConsolaGeneral.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv17.1_20191002\SIGPv17.1_20191002\SIGPv2\obj\x86\Debug\SIGPv2.exe
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv17.1_20191002\SIGPv17.1_20191002\SIGPv2\obj\x86\Debug\SIGPv2.xml
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv17.1_20191002\SIGPv17.1_20191002\SIGPv2\obj\x86\Debug\SIGPv2.pdb
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv17.1_20191002\SIGPv17.1_20191002\SIGPv2\bin\Debug\SIGPv2.exe
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv17.1_20191002\SIGPv17.1_20191002\SIGPv2\bin\Debug\SIGPv2.pdb
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv17.1_20191002\SIGPv17.1_20191002\SIGPv2\bin\Debug\SIGPv2.xml
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv17.1_20191002\SIGPv17.1_20191002\SIGPv2\obj\x86\Debug\SIGPv2.FormAbrirRelevamiento.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv17.1_20191002\SIGPv17.1_20191002\SIGPv2\obj\x86\Debug\SIGPv2.FormBuscarMapa.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv17.1_20191002\SIGPv17.1_20191002\SIGPv2\obj\x86\Debug\SIGPv2.FormCalculos.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv17.1_20191002\SIGPv17.1_20191002\SIGPv2\obj\x86\Debug\SIGPv2.FormConsolaGeneral.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv17.1_20191002\SIGPv17.1_20191002\SIGPv2\obj\x86\Debug\SIGPv2.FormCuestionarioLugaresDeTrabajo.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv17.1_20191002\SIGPv17.1_20191002\SIGPv2\obj\x86\Debug\SIGPv2.FormCuestionarios.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv17.1_20191002\SIGPv17.1_20191002\SIGPv2\obj\x86\Debug\SIGPv2.FormEmpresa.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv17.1_20191002\SIGPv17.1_20191002\SIGPv2\obj\x86\Debug\SIGPv2.FormGestionPrevencionistas.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv17.1_20191002\SIGPv17.1_20191002\SIGPv2\obj\x86\Debug\SIGPv2.FormCuestionarioIncendios.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv17.1_20191002\SIGPv17.1_20191002\SIGPv2\obj\x86\Debug\SIGPv2.FormInspecciones.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv17.1_20191002\SIGPv17.1_20191002\SIGPv2\obj\x86\Debug\SIGPv2.FormInventario.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv17.1_20191002\SIGPv17.1_20191002\SIGPv2\obj\x86\Debug\SIGPv2.FormLogin.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv17.1_20191002\SIGPv17.1_20191002\SIGPv2\obj\x86\Debug\SIGPv2.FormMapa.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv17.1_20191002\SIGPv17.1_20191002\SIGPv2\obj\x86\Debug\SIGPv2.FormCuestionarioMaquinas.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv17.1_20191002\SIGPv17.1_20191002\SIGPv2\obj\x86\Debug\SIGPv2.FormNavegador.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv17.1_20191002\SIGPv17.1_20191002\SIGPv2\obj\x86\Debug\SIGPv2.FormNuevoContrato.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv17.1_20191002\SIGPv17.1_20191002\SIGPv2\obj\x86\Debug\SIGPv2.FormNuevoRelevamiento.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv17.1_20191002\SIGPv17.1_20191002\SIGPv2\obj\x86\Debug\SIGPv2.FormNuevoTrabajador.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv17.1_20191002\SIGPv17.1_20191002\SIGPv2\obj\x86\Debug\SIGPv2.FormPlanDeContingencia.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv17.1_20191002\SIGPv17.1_20191002\SIGPv2\obj\x86\Debug\SIGPv2.FormPrincipal.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv17.1_20191002\SIGPv17.1_20191002\SIGPv2\obj\x86\Debug\SIGPv2.FormReporte.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv17.1_20191002\SIGPv17.1_20191002\SIGPv2\obj\x86\Debug\SIGPv2.FormUsuarios.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv17.1_20191002\SIGPv17.1_20191002\SIGPv2\obj\x86\Debug\SIGPv2.Resources.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv17.1_20191002\SIGPv17.1_20191002\SIGPv2\obj\x86\Debug\SIGPv2.vbproj.GenerateResource.Cache
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv17.2_20191003\SIGPv17.1_20191002\SIGPv2\obj\x86\Debug\SIGPv2.exe
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv17.2_20191003\SIGPv17.1_20191002\SIGPv2\obj\x86\Debug\SIGPv2.xml
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv17.2_20191003\SIGPv17.1_20191002\SIGPv2\obj\x86\Debug\SIGPv2.pdb
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv17.2_20191003\SIGPv17.1_20191002\SIGPv2\bin\Debug\SIGPv2.exe
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv17.2_20191003\SIGPv17.1_20191002\SIGPv2\bin\Debug\SIGPv2.pdb
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv17.2_20191003\SIGPv17.1_20191002\SIGPv2\bin\Debug\SIGPv2.xml
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv17.2_20191003\SIGPv17.1_20191002\SIGPv2\obj\x86\Debug\SIGPv2.FormAbrirRelevamiento.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv17.2_20191003\SIGPv17.1_20191002\SIGPv2\obj\x86\Debug\SIGPv2.FormBuscarMapa.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv17.2_20191003\SIGPv17.1_20191002\SIGPv2\obj\x86\Debug\SIGPv2.FormCalculos.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv17.2_20191003\SIGPv17.1_20191002\SIGPv2\obj\x86\Debug\SIGPv2.FormConsolaGeneral.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv17.2_20191003\SIGPv17.1_20191002\SIGPv2\obj\x86\Debug\SIGPv2.FormCuestionarioLugaresDeTrabajo.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv17.2_20191003\SIGPv17.1_20191002\SIGPv2\obj\x86\Debug\SIGPv2.FormCuestionarios.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv17.2_20191003\SIGPv17.1_20191002\SIGPv2\obj\x86\Debug\SIGPv2.FormEmpresa.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv17.2_20191003\SIGPv17.1_20191002\SIGPv2\obj\x86\Debug\SIGPv2.FormGestionPrevencionistas.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv17.2_20191003\SIGPv17.1_20191002\SIGPv2\obj\x86\Debug\SIGPv2.FormCuestionarioIncendios.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv17.2_20191003\SIGPv17.1_20191002\SIGPv2\obj\x86\Debug\SIGPv2.FormInspecciones.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv17.2_20191003\SIGPv17.1_20191002\SIGPv2\obj\x86\Debug\SIGPv2.FormInventario.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv17.2_20191003\SIGPv17.1_20191002\SIGPv2\obj\x86\Debug\SIGPv2.FormLogin.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv17.2_20191003\SIGPv17.1_20191002\SIGPv2\obj\x86\Debug\SIGPv2.FormMapa.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv17.2_20191003\SIGPv17.1_20191002\SIGPv2\obj\x86\Debug\SIGPv2.FormCuestionarioMaquinas.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv17.2_20191003\SIGPv17.1_20191002\SIGPv2\obj\x86\Debug\SIGPv2.FormNavegador.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv17.2_20191003\SIGPv17.1_20191002\SIGPv2\obj\x86\Debug\SIGPv2.FormNuevoContrato.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv17.2_20191003\SIGPv17.1_20191002\SIGPv2\obj\x86\Debug\SIGPv2.FormNuevoRelevamiento.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv17.2_20191003\SIGPv17.1_20191002\SIGPv2\obj\x86\Debug\SIGPv2.FormNuevoTrabajador.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv17.2_20191003\SIGPv17.1_20191002\SIGPv2\obj\x86\Debug\SIGPv2.FormPlanDeContingencia.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv17.2_20191003\SIGPv17.1_20191002\SIGPv2\obj\x86\Debug\SIGPv2.FormPrincipal.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv17.2_20191003\SIGPv17.1_20191002\SIGPv2\obj\x86\Debug\SIGPv2.FormReporte.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv17.2_20191003\SIGPv17.1_20191002\SIGPv2\obj\x86\Debug\SIGPv2.FormUsuarios.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv17.2_20191003\SIGPv17.1_20191002\SIGPv2\obj\x86\Debug\SIGPv2.Resources.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv17.2_20191003\SIGPv17.1_20191002\SIGPv2\obj\x86\Debug\SIGPv2.vbproj.GenerateResource.Cache
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv17.3_20191004\SIGPv17.1_20191002\SIGPv2\obj\x86\Debug\SIGPv2.exe
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv17.3_20191004\SIGPv17.1_20191002\SIGPv2\obj\x86\Debug\SIGPv2.xml
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv17.3_20191004\SIGPv17.1_20191002\SIGPv2\obj\x86\Debug\SIGPv2.pdb
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv17.3_20191004\SIGPv17.1_20191002\SIGPv2\bin\Debug\SIGPv2.exe
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv17.3_20191004\SIGPv17.1_20191002\SIGPv2\bin\Debug\SIGPv2.pdb
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv17.3_20191004\SIGPv17.1_20191002\SIGPv2\bin\Debug\SIGPv2.xml
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv17.3_20191004\SIGPv17.1_20191002\SIGPv2\obj\x86\Debug\SIGPv2.FormAbrirRelevamiento.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv17.3_20191004\SIGPv17.1_20191002\SIGPv2\obj\x86\Debug\SIGPv2.FormBuscarMapa.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv17.3_20191004\SIGPv17.1_20191002\SIGPv2\obj\x86\Debug\SIGPv2.FormCalculos.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv17.3_20191004\SIGPv17.1_20191002\SIGPv2\obj\x86\Debug\SIGPv2.FormConsolaGeneral.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv17.3_20191004\SIGPv17.1_20191002\SIGPv2\obj\x86\Debug\SIGPv2.FormCuestionarioLugaresDeTrabajo.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv17.3_20191004\SIGPv17.1_20191002\SIGPv2\obj\x86\Debug\SIGPv2.FormCuestionarios.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv17.3_20191004\SIGPv17.1_20191002\SIGPv2\obj\x86\Debug\SIGPv2.FormEmpresa.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv17.3_20191004\SIGPv17.1_20191002\SIGPv2\obj\x86\Debug\SIGPv2.FormGestionPrevencionistas.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv17.3_20191004\SIGPv17.1_20191002\SIGPv2\obj\x86\Debug\SIGPv2.FormCuestionarioIncendios.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv17.3_20191004\SIGPv17.1_20191002\SIGPv2\obj\x86\Debug\SIGPv2.FormInspecciones.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv17.3_20191004\SIGPv17.1_20191002\SIGPv2\obj\x86\Debug\SIGPv2.FormInventario.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv17.3_20191004\SIGPv17.1_20191002\SIGPv2\obj\x86\Debug\SIGPv2.FormLogin.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv17.3_20191004\SIGPv17.1_20191002\SIGPv2\obj\x86\Debug\SIGPv2.FormMapa.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv17.3_20191004\SIGPv17.1_20191002\SIGPv2\obj\x86\Debug\SIGPv2.FormCuestionarioMaquinas.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv17.3_20191004\SIGPv17.1_20191002\SIGPv2\obj\x86\Debug\SIGPv2.FormNavegador.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv17.3_20191004\SIGPv17.1_20191002\SIGPv2\obj\x86\Debug\SIGPv2.FormNuevoContrato.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv17.3_20191004\SIGPv17.1_20191002\SIGPv2\obj\x86\Debug\SIGPv2.FormNuevoRelevamiento.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv17.3_20191004\SIGPv17.1_20191002\SIGPv2\obj\x86\Debug\SIGPv2.FormNuevoTrabajador.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv17.3_20191004\SIGPv17.1_20191002\SIGPv2\obj\x86\Debug\SIGPv2.FormPlanDeContingencia.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv17.3_20191004\SIGPv17.1_20191002\SIGPv2\obj\x86\Debug\SIGPv2.FormPrincipal.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv17.3_20191004\SIGPv17.1_20191002\SIGPv2\obj\x86\Debug\SIGPv2.FormReporte.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv17.3_20191004\SIGPv17.1_20191002\SIGPv2\obj\x86\Debug\SIGPv2.FormUsuarios.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv17.3_20191004\SIGPv17.1_20191002\SIGPv2\obj\x86\Debug\SIGPv2.Resources.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv17.3_20191004\SIGPv17.1_20191002\SIGPv2\obj\x86\Debug\SIGPv2.vbproj.GenerateResource.Cache
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv17.4_20191004\SIGPv2\obj\x86\Debug\SIGPv2.exe
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv17.4_20191004\SIGPv2\obj\x86\Debug\SIGPv2.xml
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv17.4_20191004\SIGPv2\obj\x86\Debug\SIGPv2.pdb
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv17.4_20191004\SIGPv2\bin\Debug\SIGPv2.exe
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv17.4_20191004\SIGPv2\bin\Debug\SIGPv2.pdb
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv17.4_20191004\SIGPv2\bin\Debug\SIGPv2.xml
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv17.4_20191004\SIGPv2\obj\x86\Debug\SIGPv2.FormAbrirRelevamiento.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv17.4_20191004\SIGPv2\obj\x86\Debug\SIGPv2.FormBuscarMapa.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv17.4_20191004\SIGPv2\obj\x86\Debug\SIGPv2.FormCalculos.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv17.4_20191004\SIGPv2\obj\x86\Debug\SIGPv2.FormConsolaGeneral.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv17.4_20191004\SIGPv2\obj\x86\Debug\SIGPv2.FormCuestionarioLugaresDeTrabajo.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv17.4_20191004\SIGPv2\obj\x86\Debug\SIGPv2.FormCuestionarios.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv17.4_20191004\SIGPv2\obj\x86\Debug\SIGPv2.FormEmpresa.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv17.4_20191004\SIGPv2\obj\x86\Debug\SIGPv2.FormGestionPrevencionistas.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv17.4_20191004\SIGPv2\obj\x86\Debug\SIGPv2.FormCuestionarioIncendios.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv17.4_20191004\SIGPv2\obj\x86\Debug\SIGPv2.FormInspecciones.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv17.4_20191004\SIGPv2\obj\x86\Debug\SIGPv2.FormInventario.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv17.4_20191004\SIGPv2\obj\x86\Debug\SIGPv2.FormLogin.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv17.4_20191004\SIGPv2\obj\x86\Debug\SIGPv2.FormMapa.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv17.4_20191004\SIGPv2\obj\x86\Debug\SIGPv2.FormCuestionarioMaquinas.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv17.4_20191004\SIGPv2\obj\x86\Debug\SIGPv2.FormNavegador.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv17.4_20191004\SIGPv2\obj\x86\Debug\SIGPv2.FormNuevoContrato.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv17.4_20191004\SIGPv2\obj\x86\Debug\SIGPv2.FormNuevoRelevamiento.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv17.4_20191004\SIGPv2\obj\x86\Debug\SIGPv2.FormNuevoTrabajador.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv17.4_20191004\SIGPv2\obj\x86\Debug\SIGPv2.FormPlanDeContingencia.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv17.4_20191004\SIGPv2\obj\x86\Debug\SIGPv2.FormPrincipal.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv17.4_20191004\SIGPv2\obj\x86\Debug\SIGPv2.FormReporte.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv17.4_20191004\SIGPv2\obj\x86\Debug\SIGPv2.FormUsuarios.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv17.4_20191004\SIGPv2\obj\x86\Debug\SIGPv2.Resources.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv17.4_20191004\SIGPv2\obj\x86\Debug\SIGPv2.vbproj.GenerateResource.Cache
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv18_20191005\SIGPv2\obj\x86\Debug\SIGPv2.exe
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv18_20191005\SIGPv2\obj\x86\Debug\SIGPv2.xml
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv18_20191005\SIGPv2\obj\x86\Debug\SIGPv2.pdb
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv18_20191005\SIGPv2\bin\Debug\SIGPv2.exe
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv18_20191005\SIGPv2\bin\Debug\SIGPv2.pdb
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv18_20191005\SIGPv2\bin\Debug\SIGPv2.xml
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv18_20191005\SIGPv2\obj\x86\Debug\SIGPv2.FormAbrirRelevamiento.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv18_20191005\SIGPv2\obj\x86\Debug\SIGPv2.FormBuscarMapa.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv18_20191005\SIGPv2\obj\x86\Debug\SIGPv2.FormCalculos.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv18_20191005\SIGPv2\obj\x86\Debug\SIGPv2.FormConsolaGeneral.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv18_20191005\SIGPv2\obj\x86\Debug\SIGPv2.FormCuestionarioLugaresDeTrabajo.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv18_20191005\SIGPv2\obj\x86\Debug\SIGPv2.FormCuestionarios.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv18_20191005\SIGPv2\obj\x86\Debug\SIGPv2.FormEmpresa.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv18_20191005\SIGPv2\obj\x86\Debug\SIGPv2.FormGestionPrevencionistas.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv18_20191005\SIGPv2\obj\x86\Debug\SIGPv2.FormCuestionarioIncendios.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv18_20191005\SIGPv2\obj\x86\Debug\SIGPv2.FormInspecciones.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv18_20191005\SIGPv2\obj\x86\Debug\SIGPv2.FormInventario.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv18_20191005\SIGPv2\obj\x86\Debug\SIGPv2.FormLogin.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv18_20191005\SIGPv2\obj\x86\Debug\SIGPv2.FormMapa.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv18_20191005\SIGPv2\obj\x86\Debug\SIGPv2.FormCuestionarioMaquinas.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv18_20191005\SIGPv2\obj\x86\Debug\SIGPv2.FormNavegador.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv18_20191005\SIGPv2\obj\x86\Debug\SIGPv2.FormNuevoContrato.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv18_20191005\SIGPv2\obj\x86\Debug\SIGPv2.FormNuevoRelevamiento.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv18_20191005\SIGPv2\obj\x86\Debug\SIGPv2.FormNuevoTrabajador.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv18_20191005\SIGPv2\obj\x86\Debug\SIGPv2.FormPlanDeContingencia.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv18_20191005\SIGPv2\obj\x86\Debug\SIGPv2.FormPrincipal.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv18_20191005\SIGPv2\obj\x86\Debug\SIGPv2.FormReporte.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv18_20191005\SIGPv2\obj\x86\Debug\SIGPv2.FormUsuarios.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv18_20191005\SIGPv2\obj\x86\Debug\SIGPv2.Resources.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv18_20191005\SIGPv2\obj\x86\Debug\SIGPv2.vbproj.GenerateResource.Cache
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv19_20191007\SIGPv2\obj\x86\Debug\SIGPv2.exe
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv19_20191007\SIGPv2\obj\x86\Debug\SIGPv2.xml
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv19_20191007\SIGPv2\obj\x86\Debug\SIGPv2.pdb
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv19_20191007\SIGPv2\bin\Debug\SIGPv2.exe
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv19_20191007\SIGPv2\bin\Debug\SIGPv2.pdb
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv19_20191007\SIGPv2\bin\Debug\SIGPv2.xml
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv19_20191007\SIGPv2\obj\x86\Debug\SIGPv2.FormAbrirRelevamiento.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv19_20191007\SIGPv2\obj\x86\Debug\SIGPv2.FormBuscarMapa.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv19_20191007\SIGPv2\obj\x86\Debug\SIGPv2.FormCalculos.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv19_20191007\SIGPv2\obj\x86\Debug\SIGPv2.FormConsolaGeneral.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv19_20191007\SIGPv2\obj\x86\Debug\SIGPv2.FormCuestionarioLugaresDeTrabajo.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv19_20191007\SIGPv2\obj\x86\Debug\SIGPv2.FormCuestionarios.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv19_20191007\SIGPv2\obj\x86\Debug\SIGPv2.FormEmpresa.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv19_20191007\SIGPv2\obj\x86\Debug\SIGPv2.FormGestionPrevencionistas.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv19_20191007\SIGPv2\obj\x86\Debug\SIGPv2.FormCuestionarioIncendios.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv19_20191007\SIGPv2\obj\x86\Debug\SIGPv2.FormInspecciones.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv19_20191007\SIGPv2\obj\x86\Debug\SIGPv2.FormInventario.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv19_20191007\SIGPv2\obj\x86\Debug\SIGPv2.FormLogin.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv19_20191007\SIGPv2\obj\x86\Debug\SIGPv2.FormCuestionarioMaquinas.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv19_20191007\SIGPv2\obj\x86\Debug\SIGPv2.FormNavegador.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv19_20191007\SIGPv2\obj\x86\Debug\SIGPv2.FormNuevoContrato.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv19_20191007\SIGPv2\obj\x86\Debug\SIGPv2.FormNuevoRelevamiento.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv19_20191007\SIGPv2\obj\x86\Debug\SIGPv2.FormNuevoTrabajador.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv19_20191007\SIGPv2\obj\x86\Debug\SIGPv2.FormPlanDeContingencia.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv19_20191007\SIGPv2\obj\x86\Debug\SIGPv2.FormPrincipal.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv19_20191007\SIGPv2\obj\x86\Debug\SIGPv2.FormReporte.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv19_20191007\SIGPv2\obj\x86\Debug\SIGPv2.FormUsuarios.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv19_20191007\SIGPv2\obj\x86\Debug\SIGPv2.Resources.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv19_20191007\SIGPv2\obj\x86\Debug\SIGPv2.vbproj.GenerateResource.Cache
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv19_20191007\SIGPv2\obj\x86\Debug\SIGPv2.FormMapas.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv20_20191012\SIGPv2\obj\x86\Debug\SIGPv2.exe
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv20_20191012\SIGPv2\obj\x86\Debug\SIGPv2.xml
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv20_20191012\SIGPv2\obj\x86\Debug\SIGPv2.pdb
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv20_20191012\SIGPv2\bin\Debug\SIGPv2.exe
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv20_20191012\SIGPv2\bin\Debug\SIGPv2.pdb
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv20_20191012\SIGPv2\bin\Debug\SIGPv2.xml
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv20_20191012\SIGPv2\obj\x86\Debug\SIGPv2.FormAbrirRelevamiento.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv20_20191012\SIGPv2\obj\x86\Debug\SIGPv2.FormBuscarMapa.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv20_20191012\SIGPv2\obj\x86\Debug\SIGPv2.FormCalculos.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv20_20191012\SIGPv2\obj\x86\Debug\SIGPv2.FormConsolaGeneral.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv20_20191012\SIGPv2\obj\x86\Debug\SIGPv2.FormCuestionarioLugaresDeTrabajo.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv20_20191012\SIGPv2\obj\x86\Debug\SIGPv2.FormCuestionarios.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv20_20191012\SIGPv2\obj\x86\Debug\SIGPv2.FormEmpresa.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv20_20191012\SIGPv2\obj\x86\Debug\SIGPv2.FormGestionPrevencionistas.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv20_20191012\SIGPv2\obj\x86\Debug\SIGPv2.FormCuestionarioIncendios.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv20_20191012\SIGPv2\obj\x86\Debug\SIGPv2.FormInspecciones.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv20_20191012\SIGPv2\obj\x86\Debug\SIGPv2.FormInventario.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv20_20191012\SIGPv2\obj\x86\Debug\SIGPv2.FormLogin.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv20_20191012\SIGPv2\obj\x86\Debug\SIGPv2.FormCuestionarioMaquinas.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv20_20191012\SIGPv2\obj\x86\Debug\SIGPv2.FormMapas.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv20_20191012\SIGPv2\obj\x86\Debug\SIGPv2.FormNavegador.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv20_20191012\SIGPv2\obj\x86\Debug\SIGPv2.FormNuevoContrato.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv20_20191012\SIGPv2\obj\x86\Debug\SIGPv2.FormNuevoRelevamiento.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv20_20191012\SIGPv2\obj\x86\Debug\SIGPv2.FormNuevoTrabajador.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv20_20191012\SIGPv2\obj\x86\Debug\SIGPv2.FormPlanDeContingencia.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv20_20191012\SIGPv2\obj\x86\Debug\SIGPv2.FormPrincipal.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv20_20191012\SIGPv2\obj\x86\Debug\SIGPv2.FormReporte.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv20_20191012\SIGPv2\obj\x86\Debug\SIGPv2.FormUsuarios.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv20_20191012\SIGPv2\obj\x86\Debug\SIGPv2.Resources.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv20_20191012\SIGPv2\obj\x86\Debug\SIGPv2.vbproj.GenerateResource.Cache
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv21_20191013\SIGPv2\obj\x86\Debug\SIGPv2.exe
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv21_20191013\SIGPv2\obj\x86\Debug\SIGPv2.xml
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv21_20191013\SIGPv2\obj\x86\Debug\SIGPv2.pdb
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv21_20191013\SIGPv2\obj\x86\Debug\SIGPv2.FormAbrirRelevamiento.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv21_20191013\SIGPv2\obj\x86\Debug\SIGPv2.FormBuscarMapa.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv21_20191013\SIGPv2\obj\x86\Debug\SIGPv2.FormCalculos.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv21_20191013\SIGPv2\obj\x86\Debug\SIGPv2.FormConsolaGeneral.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv21_20191013\SIGPv2\obj\x86\Debug\SIGPv2.FormCuestionarioLugaresDeTrabajo.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv21_20191013\SIGPv2\obj\x86\Debug\SIGPv2.FormCuestionarios.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv21_20191013\SIGPv2\obj\x86\Debug\SIGPv2.FormEmpresa.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv21_20191013\SIGPv2\obj\x86\Debug\SIGPv2.FormGestionPrevencionistas.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv21_20191013\SIGPv2\obj\x86\Debug\SIGPv2.FormCuestionarioIncendios.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv21_20191013\SIGPv2\obj\x86\Debug\SIGPv2.FormInspecciones.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv21_20191013\SIGPv2\obj\x86\Debug\SIGPv2.FormInventario.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv21_20191013\SIGPv2\obj\x86\Debug\SIGPv2.FormLogin.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv21_20191013\SIGPv2\obj\x86\Debug\SIGPv2.FormCuestionarioMaquinas.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv21_20191013\SIGPv2\obj\x86\Debug\SIGPv2.FormMapas.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv21_20191013\SIGPv2\obj\x86\Debug\SIGPv2.FormNavegador.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv21_20191013\SIGPv2\obj\x86\Debug\SIGPv2.FormNuevoContrato.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv21_20191013\SIGPv2\obj\x86\Debug\SIGPv2.FormNuevoRelevamiento.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv21_20191013\SIGPv2\obj\x86\Debug\SIGPv2.FormNuevoTrabajador.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv21_20191013\SIGPv2\obj\x86\Debug\SIGPv2.FormPlanDeContingencia.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv21_20191013\SIGPv2\obj\x86\Debug\SIGPv2.FormPrincipal.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv21_20191013\SIGPv2\obj\x86\Debug\SIGPv2.FormReporte.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv21_20191013\SIGPv2\obj\x86\Debug\SIGPv2.FormUsuarios.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv21_20191013\SIGPv2\obj\x86\Debug\SIGPv2.Resources.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv21_20191013\SIGPv2\obj\x86\Debug\SIGPv2.vbproj.GenerateResource.Cache
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv21_20191013\SIGPv2\bin\Debug\SIGPv2.exe
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv21_20191013\SIGPv2\bin\Debug\SIGPv2.pdb
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv21_20191013\SIGPv2\bin\Debug\SIGPv2.xml
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv22_20191013\SIGPv2\obj\x86\Debug\SIGPv2.exe
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv22_20191013\SIGPv2\obj\x86\Debug\SIGPv2.xml
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv22_20191013\SIGPv2\obj\x86\Debug\SIGPv2.pdb
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv22_20191013\SIGPv2\bin\Debug\SIGPv2.exe
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv22_20191013\SIGPv2\bin\Debug\SIGPv2.pdb
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv22_20191013\SIGPv2\bin\Debug\SIGPv2.xml
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv22_20191013\SIGPv2\obj\x86\Debug\SIGPv2.FormAbrirRelevamiento.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv22_20191013\SIGPv2\obj\x86\Debug\SIGPv2.FormBuscarMapa.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv22_20191013\SIGPv2\obj\x86\Debug\SIGPv2.FormCalculos.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv22_20191013\SIGPv2\obj\x86\Debug\SIGPv2.FormConsolaGeneral.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv22_20191013\SIGPv2\obj\x86\Debug\SIGPv2.FormCuestionarioLugaresDeTrabajo.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv22_20191013\SIGPv2\obj\x86\Debug\SIGPv2.FormCuestionarios.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv22_20191013\SIGPv2\obj\x86\Debug\SIGPv2.FormEmpresa.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv22_20191013\SIGPv2\obj\x86\Debug\SIGPv2.FormGestionPrevencionistas.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv22_20191013\SIGPv2\obj\x86\Debug\SIGPv2.FormCuestionarioIncendios.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv22_20191013\SIGPv2\obj\x86\Debug\SIGPv2.FormInspecciones.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv22_20191013\SIGPv2\obj\x86\Debug\SIGPv2.FormInventario.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv22_20191013\SIGPv2\obj\x86\Debug\SIGPv2.FormLogin.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv22_20191013\SIGPv2\obj\x86\Debug\SIGPv2.FormCuestionarioMaquinas.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv22_20191013\SIGPv2\obj\x86\Debug\SIGPv2.FormMapas.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv22_20191013\SIGPv2\obj\x86\Debug\SIGPv2.FormNavegador.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv22_20191013\SIGPv2\obj\x86\Debug\SIGPv2.FormNuevoContrato.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv22_20191013\SIGPv2\obj\x86\Debug\SIGPv2.FormNuevoRelevamiento.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv22_20191013\SIGPv2\obj\x86\Debug\SIGPv2.FormNuevoTrabajador.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv22_20191013\SIGPv2\obj\x86\Debug\SIGPv2.FormPlanDeContingencia.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv22_20191013\SIGPv2\obj\x86\Debug\SIGPv2.FormPrincipal.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv22_20191013\SIGPv2\obj\x86\Debug\SIGPv2.FormReporte.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv22_20191013\SIGPv2\obj\x86\Debug\SIGPv2.FormUsuarios.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv22_20191013\SIGPv2\obj\x86\Debug\SIGPv2.Resources.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv22_20191013\SIGPv2\obj\x86\Debug\SIGPv2.vbproj.GenerateResource.Cache
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv23_20191014\SIGPv2\obj\x86\Debug\SIGPv2.exe
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv23_20191014\SIGPv2\obj\x86\Debug\SIGPv2.xml
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv23_20191014\SIGPv2\obj\x86\Debug\SIGPv2.pdb
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv23_20191014\SIGPv2\obj\x86\Debug\SIGPv2.FormAbrirRelevamiento.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv23_20191014\SIGPv2\obj\x86\Debug\SIGPv2.FormBuscarMapa.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv23_20191014\SIGPv2\obj\x86\Debug\SIGPv2.FormCalculos.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv23_20191014\SIGPv2\obj\x86\Debug\SIGPv2.FormConsolaGeneral.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv23_20191014\SIGPv2\obj\x86\Debug\SIGPv2.FormCuestionarioLugaresDeTrabajo.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv23_20191014\SIGPv2\obj\x86\Debug\SIGPv2.FormCuestionarios.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv23_20191014\SIGPv2\obj\x86\Debug\SIGPv2.FormEmpresa.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv23_20191014\SIGPv2\obj\x86\Debug\SIGPv2.FormGestionPrevencionistas.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv23_20191014\SIGPv2\obj\x86\Debug\SIGPv2.FormInspecciones.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv23_20191014\SIGPv2\obj\x86\Debug\SIGPv2.FormInventario.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv23_20191014\SIGPv2\obj\x86\Debug\SIGPv2.FormLogin.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv23_20191014\SIGPv2\obj\x86\Debug\SIGPv2.FormMapas.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv23_20191014\SIGPv2\obj\x86\Debug\SIGPv2.FormNavegador.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv23_20191014\SIGPv2\obj\x86\Debug\SIGPv2.FormNuevoContrato.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv23_20191014\SIGPv2\obj\x86\Debug\SIGPv2.FormNuevoRelevamiento.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv23_20191014\SIGPv2\obj\x86\Debug\SIGPv2.FormNuevoTrabajador.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv23_20191014\SIGPv2\obj\x86\Debug\SIGPv2.FormPlanDeContingencia.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv23_20191014\SIGPv2\obj\x86\Debug\SIGPv2.FormPrincipal.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv23_20191014\SIGPv2\obj\x86\Debug\SIGPv2.FormReporte.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv23_20191014\SIGPv2\obj\x86\Debug\SIGPv2.FormUsuarios.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv23_20191014\SIGPv2\obj\x86\Debug\SIGPv2.Resources.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv23_20191014\SIGPv2\obj\x86\Debug\SIGPv2.vbproj.GenerateResource.Cache
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv23_20191014\SIGPv2\bin\Debug\SIGPv2.exe
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv23_20191014\SIGPv2\bin\Debug\SIGPv2.pdb
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv23_20191014\SIGPv2\bin\Debug\SIGPv2.xml
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv23.1_20191014\SIGPv2\obj\x86\Debug\SIGPv2.exe
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv23.1_20191014\SIGPv2\obj\x86\Debug\SIGPv2.xml
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv23.1_20191014\SIGPv2\obj\x86\Debug\SIGPv2.pdb
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv23.1_20191014\SIGPv2\bin\Debug\SIGPv2.exe
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv23.1_20191014\SIGPv2\bin\Debug\SIGPv2.pdb
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv23.1_20191014\SIGPv2\bin\Debug\SIGPv2.xml
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv23.1_20191014\SIGPv2\obj\x86\Debug\SIGPv2.FormAbrirRelevamiento.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv23.1_20191014\SIGPv2\obj\x86\Debug\SIGPv2.FormBuscarMapa.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv23.1_20191014\SIGPv2\obj\x86\Debug\SIGPv2.FormCalculos.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv23.1_20191014\SIGPv2\obj\x86\Debug\SIGPv2.FormConsolaGeneral.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv23.1_20191014\SIGPv2\obj\x86\Debug\SIGPv2.FormCuestionarioLugaresDeTrabajo.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv23.1_20191014\SIGPv2\obj\x86\Debug\SIGPv2.FormCuestionarios.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv23.1_20191014\SIGPv2\obj\x86\Debug\SIGPv2.FormEmpresa.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv23.1_20191014\SIGPv2\obj\x86\Debug\SIGPv2.FormGestionPrevencionistas.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv23.1_20191014\SIGPv2\obj\x86\Debug\SIGPv2.FormInspecciones.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv23.1_20191014\SIGPv2\obj\x86\Debug\SIGPv2.FormInventario.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv23.1_20191014\SIGPv2\obj\x86\Debug\SIGPv2.FormLogin.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv23.1_20191014\SIGPv2\obj\x86\Debug\SIGPv2.FormMapas.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv23.1_20191014\SIGPv2\obj\x86\Debug\SIGPv2.FormNavegador.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv23.1_20191014\SIGPv2\obj\x86\Debug\SIGPv2.FormNuevoContrato.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv23.1_20191014\SIGPv2\obj\x86\Debug\SIGPv2.FormNuevoRelevamiento.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv23.1_20191014\SIGPv2\obj\x86\Debug\SIGPv2.FormNuevoTrabajador.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv23.1_20191014\SIGPv2\obj\x86\Debug\SIGPv2.FormPlanDeContingencia.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv23.1_20191014\SIGPv2\obj\x86\Debug\SIGPv2.FormPrincipal.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv23.1_20191014\SIGPv2\obj\x86\Debug\SIGPv2.FormReporte.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv23.1_20191014\SIGPv2\obj\x86\Debug\SIGPv2.FormUsuarios.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv23.1_20191014\SIGPv2\obj\x86\Debug\SIGPv2.Resources.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv23.1_20191014\SIGPv2\obj\x86\Debug\SIGPv2.vbproj.GenerateResource.Cache
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv23.1_20191014\SIGPv2\obj\x86\Debug\SIGPv2.FormReporteGral.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv24_20191017\SIGPv2\obj\x86\Debug\SIGPv2.exe
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv24_20191017\SIGPv2\obj\x86\Debug\SIGPv2.xml
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv24_20191017\SIGPv2\obj\x86\Debug\SIGPv2.pdb
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv24_20191017\SIGPv2\bin\Debug\SIGPv2.exe
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv24_20191017\SIGPv2\bin\Debug\SIGPv2.pdb
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv24_20191017\SIGPv2\bin\Debug\SIGPv2.xml
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv24_20191017\SIGPv2\obj\x86\Debug\SIGPv2.FormAbrirRelevamiento.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv24_20191017\SIGPv2\obj\x86\Debug\SIGPv2.FormBuscarMapa.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv24_20191017\SIGPv2\obj\x86\Debug\SIGPv2.FormCalculos.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv24_20191017\SIGPv2\obj\x86\Debug\SIGPv2.FormConsolaGeneral.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv24_20191017\SIGPv2\obj\x86\Debug\SIGPv2.FormCuestionarioLugaresDeTrabajo.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv24_20191017\SIGPv2\obj\x86\Debug\SIGPv2.FormCuestionarios.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv24_20191017\SIGPv2\obj\x86\Debug\SIGPv2.FormEmpresa.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv24_20191017\SIGPv2\obj\x86\Debug\SIGPv2.FormGestionPrevencionistas.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv24_20191017\SIGPv2\obj\x86\Debug\SIGPv2.FormInspecciones.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv24_20191017\SIGPv2\obj\x86\Debug\SIGPv2.FormInventario.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv24_20191017\SIGPv2\obj\x86\Debug\SIGPv2.FormLogin.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv24_20191017\SIGPv2\obj\x86\Debug\SIGPv2.FormMapas.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv24_20191017\SIGPv2\obj\x86\Debug\SIGPv2.FormNavegador.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv24_20191017\SIGPv2\obj\x86\Debug\SIGPv2.FormNuevoContrato.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv24_20191017\SIGPv2\obj\x86\Debug\SIGPv2.FormNuevoRelevamiento.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv24_20191017\SIGPv2\obj\x86\Debug\SIGPv2.FormNuevoTrabajador.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv24_20191017\SIGPv2\obj\x86\Debug\SIGPv2.FormPlanDeContingencia.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv24_20191017\SIGPv2\obj\x86\Debug\SIGPv2.FormPrincipal.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv24_20191017\SIGPv2\obj\x86\Debug\SIGPv2.FormReporte.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv24_20191017\SIGPv2\obj\x86\Debug\SIGPv2.FormUsuarios.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv24_20191017\SIGPv2\obj\x86\Debug\SIGPv2.Resources.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv24_20191017\SIGPv2\obj\x86\Debug\SIGPv2.FormReporteGral.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv24_20191017\SIGPv2\obj\x86\Debug\SIGPv2.vbproj.GenerateResource.Cache
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv25_20191018\SIGPv2\obj\x86\Debug\SIGPv2.exe
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv25_20191018\SIGPv2\obj\x86\Debug\SIGPv2.xml
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv25_20191018\SIGPv2\obj\x86\Debug\SIGPv2.pdb
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv25_20191018\SIGPv2\bin\Debug\SIGPv2.exe
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv25_20191018\SIGPv2\bin\Debug\SIGPv2.pdb
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv25_20191018\SIGPv2\bin\Debug\SIGPv2.xml
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv25_20191018\SIGPv2\obj\x86\Debug\SIGPv2.FormAbrirRelevamiento.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv25_20191018\SIGPv2\obj\x86\Debug\SIGPv2.FormBuscarMapa.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv25_20191018\SIGPv2\obj\x86\Debug\SIGPv2.FormCalculos.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv25_20191018\SIGPv2\obj\x86\Debug\SIGPv2.FormConsolaGeneral.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv25_20191018\SIGPv2\obj\x86\Debug\SIGPv2.FormCuestionarioLugaresDeTrabajo.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv25_20191018\SIGPv2\obj\x86\Debug\SIGPv2.FormCuestionarios.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv25_20191018\SIGPv2\obj\x86\Debug\SIGPv2.FormEmpresa.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv25_20191018\SIGPv2\obj\x86\Debug\SIGPv2.FormGestionPrevencionistas.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv25_20191018\SIGPv2\obj\x86\Debug\SIGPv2.FormInspecciones.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv25_20191018\SIGPv2\obj\x86\Debug\SIGPv2.FormInventario.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv25_20191018\SIGPv2\obj\x86\Debug\SIGPv2.FormLogin.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv25_20191018\SIGPv2\obj\x86\Debug\SIGPv2.FormMapas.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv25_20191018\SIGPv2\obj\x86\Debug\SIGPv2.FormNavegador.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv25_20191018\SIGPv2\obj\x86\Debug\SIGPv2.FormNuevoContrato.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv25_20191018\SIGPv2\obj\x86\Debug\SIGPv2.FormNuevoRelevamiento.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv25_20191018\SIGPv2\obj\x86\Debug\SIGPv2.FormNuevoTrabajador.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv25_20191018\SIGPv2\obj\x86\Debug\SIGPv2.FormPlanDeContingencia.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv25_20191018\SIGPv2\obj\x86\Debug\SIGPv2.FormPrincipal.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv25_20191018\SIGPv2\obj\x86\Debug\SIGPv2.FormReporte.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv25_20191018\SIGPv2\obj\x86\Debug\SIGPv2.FormUsuarios.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv25_20191018\SIGPv2\obj\x86\Debug\SIGPv2.Resources.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv25_20191018\SIGPv2\obj\x86\Debug\SIGPv2.FormReporteGral.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv25_20191018\SIGPv2\obj\x86\Debug\SIGPv2.vbproj.GenerateResource.Cache
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv26_20191021\SIGPv2\obj\x86\Debug\SIGPv2.exe
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv26_20191021\SIGPv2\obj\x86\Debug\SIGPv2.xml
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv26_20191021\SIGPv2\obj\x86\Debug\SIGPv2.pdb
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv26_20191021\SIGPv2\obj\x86\Debug\SIGPv2.FormAbrirRelevamiento.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv26_20191021\SIGPv2\obj\x86\Debug\SIGPv2.FormBuscarMapa.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv26_20191021\SIGPv2\obj\x86\Debug\SIGPv2.FormCalculos.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv26_20191021\SIGPv2\obj\x86\Debug\SIGPv2.FormConsolaGeneral.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv26_20191021\SIGPv2\obj\x86\Debug\SIGPv2.FormCuestionarioLugaresDeTrabajo.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv26_20191021\SIGPv2\obj\x86\Debug\SIGPv2.FormCuestionarios.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv26_20191021\SIGPv2\obj\x86\Debug\SIGPv2.FormEmpresa.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv26_20191021\SIGPv2\obj\x86\Debug\SIGPv2.FormGestionPrevencionistas.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv26_20191021\SIGPv2\obj\x86\Debug\SIGPv2.FormInspecciones.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv26_20191021\SIGPv2\obj\x86\Debug\SIGPv2.FormInventario.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv26_20191021\SIGPv2\obj\x86\Debug\SIGPv2.FormLogin.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv26_20191021\SIGPv2\obj\x86\Debug\SIGPv2.FormMapas.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv26_20191021\SIGPv2\obj\x86\Debug\SIGPv2.FormNavegador.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv26_20191021\SIGPv2\obj\x86\Debug\SIGPv2.FormNuevoContrato.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv26_20191021\SIGPv2\obj\x86\Debug\SIGPv2.FormNuevoRelevamiento.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv26_20191021\SIGPv2\obj\x86\Debug\SIGPv2.FormNuevoTrabajador.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv26_20191021\SIGPv2\obj\x86\Debug\SIGPv2.FormPlanDeContingencia.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv26_20191021\SIGPv2\obj\x86\Debug\SIGPv2.FormPrincipal.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv26_20191021\SIGPv2\obj\x86\Debug\SIGPv2.FormReporte.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv26_20191021\SIGPv2\obj\x86\Debug\SIGPv2.FormUsuarios.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv26_20191021\SIGPv2\obj\x86\Debug\SIGPv2.Resources.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv26_20191021\SIGPv2\obj\x86\Debug\SIGPv2.FormReporteGral.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv26_20191021\SIGPv2\obj\x86\Debug\SIGPv2.vbproj.GenerateResource.Cache
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv26_20191021\SIGPv2\bin\Debug\SIGPv2.exe
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv26_20191021\SIGPv2\bin\Debug\SIGPv2.pdb
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv26_20191021\SIGPv2\bin\Debug\SIGPv2.xml
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv27_20191023\SIGPv2\obj\x86\Debug\SIGPv2.exe
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv27_20191023\SIGPv2\obj\x86\Debug\SIGPv2.xml
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv27_20191023\SIGPv2\obj\x86\Debug\SIGPv2.pdb
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv27_20191023\SIGPv2\bin\Debug\SIGPv2.exe
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv27_20191023\SIGPv2\bin\Debug\SIGPv2.pdb
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv27_20191023\SIGPv2\bin\Debug\SIGPv2.xml
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv27_20191023\SIGPv2\obj\x86\Debug\SIGPv2.FormAbrirRelevamiento.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv27_20191023\SIGPv2\obj\x86\Debug\SIGPv2.FormBuscarMapa.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv27_20191023\SIGPv2\obj\x86\Debug\SIGPv2.FormCalculos.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv27_20191023\SIGPv2\obj\x86\Debug\SIGPv2.FormConsolaGeneral.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv27_20191023\SIGPv2\obj\x86\Debug\SIGPv2.FormCuestionarioLugaresDeTrabajo.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv27_20191023\SIGPv2\obj\x86\Debug\SIGPv2.FormCuestionarios.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv27_20191023\SIGPv2\obj\x86\Debug\SIGPv2.FormEmpresa.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv27_20191023\SIGPv2\obj\x86\Debug\SIGPv2.FormGestionPrevencionistas.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv27_20191023\SIGPv2\obj\x86\Debug\SIGPv2.FormInspecciones.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv27_20191023\SIGPv2\obj\x86\Debug\SIGPv2.FormInventario.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv27_20191023\SIGPv2\obj\x86\Debug\SIGPv2.FormLogin.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv27_20191023\SIGPv2\obj\x86\Debug\SIGPv2.FormMapas.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv27_20191023\SIGPv2\obj\x86\Debug\SIGPv2.FormNavegador.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv27_20191023\SIGPv2\obj\x86\Debug\SIGPv2.FormNuevoContrato.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv27_20191023\SIGPv2\obj\x86\Debug\SIGPv2.FormNuevoRelevamiento.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv27_20191023\SIGPv2\obj\x86\Debug\SIGPv2.FormNuevoTrabajador.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv27_20191023\SIGPv2\obj\x86\Debug\SIGPv2.FormPlanDeContingencia.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv27_20191023\SIGPv2\obj\x86\Debug\SIGPv2.FormPrincipal.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv27_20191023\SIGPv2\obj\x86\Debug\SIGPv2.FormReporte.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv27_20191023\SIGPv2\obj\x86\Debug\SIGPv2.FormUsuarios.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv27_20191023\SIGPv2\obj\x86\Debug\SIGPv2.Resources.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv27_20191023\SIGPv2\obj\x86\Debug\SIGPv2.FormReporteGral.resources
+C:\Users\Lenovo\Desktop\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv27_20191023\SIGPv2\obj\x86\Debug\SIGPv2.vbproj.GenerateResource.Cache
+E:\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv27_20191023\SIGPv2\obj\x86\Debug\SIGPv2.exe
+E:\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv27_20191023\SIGPv2\obj\x86\Debug\SIGPv2.xml
+E:\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv27_20191023\SIGPv2\obj\x86\Debug\SIGPv2.pdb
+E:\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv27_20191023\SIGPv2\bin\Debug\SIGPv2.exe
+E:\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv27_20191023\SIGPv2\bin\Debug\SIGPv2.pdb
+E:\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv27_20191023\SIGPv2\bin\Debug\SIGPv2.xml
+E:\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv27_20191023\SIGPv2\obj\x86\Debug\SIGPv2.FormAbrirRelevamiento.resources
+E:\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv27_20191023\SIGPv2\obj\x86\Debug\SIGPv2.FormBuscarMapa.resources
+E:\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv27_20191023\SIGPv2\obj\x86\Debug\SIGPv2.FormCalculos.resources
+E:\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv27_20191023\SIGPv2\obj\x86\Debug\SIGPv2.FormConsolaGeneral.resources
+E:\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv27_20191023\SIGPv2\obj\x86\Debug\SIGPv2.FormCuestionarioLugaresDeTrabajo.resources
+E:\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv27_20191023\SIGPv2\obj\x86\Debug\SIGPv2.FormCuestionarios.resources
+E:\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv27_20191023\SIGPv2\obj\x86\Debug\SIGPv2.FormEmpresa.resources
+E:\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv27_20191023\SIGPv2\obj\x86\Debug\SIGPv2.FormGestionPrevencionistas.resources
+E:\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv27_20191023\SIGPv2\obj\x86\Debug\SIGPv2.FormInspecciones.resources
+E:\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv27_20191023\SIGPv2\obj\x86\Debug\SIGPv2.FormInventario.resources
+E:\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv27_20191023\SIGPv2\obj\x86\Debug\SIGPv2.FormLogin.resources
+E:\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv27_20191023\SIGPv2\obj\x86\Debug\SIGPv2.FormMapas.resources
+E:\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv27_20191023\SIGPv2\obj\x86\Debug\SIGPv2.FormNavegador.resources
+E:\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv27_20191023\SIGPv2\obj\x86\Debug\SIGPv2.FormNuevoContrato.resources
+E:\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv27_20191023\SIGPv2\obj\x86\Debug\SIGPv2.FormNuevoRelevamiento.resources
+E:\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv27_20191023\SIGPv2\obj\x86\Debug\SIGPv2.FormNuevoTrabajador.resources
+E:\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv27_20191023\SIGPv2\obj\x86\Debug\SIGPv2.FormPlanDeContingencia.resources
+E:\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv27_20191023\SIGPv2\obj\x86\Debug\SIGPv2.FormPrincipal.resources
+E:\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv27_20191023\SIGPv2\obj\x86\Debug\SIGPv2.FormReporte.resources
+E:\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv27_20191023\SIGPv2\obj\x86\Debug\SIGPv2.FormUsuarios.resources
+E:\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv27_20191023\SIGPv2\obj\x86\Debug\SIGPv2.Resources.resources
+E:\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv27_20191023\SIGPv2\obj\x86\Debug\SIGPv2.FormReporteGral.resources
+E:\Proyecto\S.I.G.P. Versiones Funcionando\SIGPv27_20191023\SIGPv2\obj\x86\Debug\SIGPv2.vbproj.GenerateResource.Cache
+E:\Proyecto\S.I.G.P. Versiones Funcionando\SIGPvFinal_20191025\SIGPv2\obj\x86\Debug\SIGPv2.exe
+E:\Proyecto\S.I.G.P. Versiones Funcionando\SIGPvFinal_20191025\SIGPv2\obj\x86\Debug\SIGPv2.xml
+E:\Proyecto\S.I.G.P. Versiones Funcionando\SIGPvFinal_20191025\SIGPv2\obj\x86\Debug\SIGPv2.pdb
+E:\Proyecto\S.I.G.P. Versiones Funcionando\SIGPvFinal_20191025\SIGPv2\bin\Debug\SIGPv2.exe
+E:\Proyecto\S.I.G.P. Versiones Funcionando\SIGPvFinal_20191025\SIGPv2\bin\Debug\SIGPv2.pdb
+E:\Proyecto\S.I.G.P. Versiones Funcionando\SIGPvFinal_20191025\SIGPv2\bin\Debug\SIGPv2.xml
+E:\Proyecto\S.I.G.P. Versiones Funcionando\SIGPvFinal_20191025\SIGPv2\obj\x86\Debug\SIGPv2.FormAbrirRelevamiento.resources
+E:\Proyecto\S.I.G.P. Versiones Funcionando\SIGPvFinal_20191025\SIGPv2\obj\x86\Debug\SIGPv2.FormBuscarMapa.resources
+E:\Proyecto\S.I.G.P. Versiones Funcionando\SIGPvFinal_20191025\SIGPv2\obj\x86\Debug\SIGPv2.FormCalculos.resources
+E:\Proyecto\S.I.G.P. Versiones Funcionando\SIGPvFinal_20191025\SIGPv2\obj\x86\Debug\SIGPv2.FormConsolaGeneral.resources
+E:\Proyecto\S.I.G.P. Versiones Funcionando\SIGPvFinal_20191025\SIGPv2\obj\x86\Debug\SIGPv2.FormCuestionarioLugaresDeTrabajo.resources
+E:\Proyecto\S.I.G.P. Versiones Funcionando\SIGPvFinal_20191025\SIGPv2\obj\x86\Debug\SIGPv2.FormCuestionarios.resources
+E:\Proyecto\S.I.G.P. Versiones Funcionando\SIGPvFinal_20191025\SIGPv2\obj\x86\Debug\SIGPv2.FormEmpresa.resources
+E:\Proyecto\S.I.G.P. Versiones Funcionando\SIGPvFinal_20191025\SIGPv2\obj\x86\Debug\SIGPv2.FormGestionPrevencionistas.resources
+E:\Proyecto\S.I.G.P. Versiones Funcionando\SIGPvFinal_20191025\SIGPv2\obj\x86\Debug\SIGPv2.FormInspecciones.resources
+E:\Proyecto\S.I.G.P. Versiones Funcionando\SIGPvFinal_20191025\SIGPv2\obj\x86\Debug\SIGPv2.FormInventario.resources
+E:\Proyecto\S.I.G.P. Versiones Funcionando\SIGPvFinal_20191025\SIGPv2\obj\x86\Debug\SIGPv2.FormLogin.resources
+E:\Proyecto\S.I.G.P. Versiones Funcionando\SIGPvFinal_20191025\SIGPv2\obj\x86\Debug\SIGPv2.FormMapas.resources
+E:\Proyecto\S.I.G.P. Versiones Funcionando\SIGPvFinal_20191025\SIGPv2\obj\x86\Debug\SIGPv2.FormNavegador.resources
+E:\Proyecto\S.I.G.P. Versiones Funcionando\SIGPvFinal_20191025\SIGPv2\obj\x86\Debug\SIGPv2.FormNuevoContrato.resources
+E:\Proyecto\S.I.G.P. Versiones Funcionando\SIGPvFinal_20191025\SIGPv2\obj\x86\Debug\SIGPv2.FormNuevoRelevamiento.resources
+E:\Proyecto\S.I.G.P. Versiones Funcionando\SIGPvFinal_20191025\SIGPv2\obj\x86\Debug\SIGPv2.FormNuevoTrabajador.resources
+E:\Proyecto\S.I.G.P. Versiones Funcionando\SIGPvFinal_20191025\SIGPv2\obj\x86\Debug\SIGPv2.FormPlanDeContingencia.resources
+E:\Proyecto\S.I.G.P. Versiones Funcionando\SIGPvFinal_20191025\SIGPv2\obj\x86\Debug\SIGPv2.FormPrincipal.resources
+E:\Proyecto\S.I.G.P. Versiones Funcionando\SIGPvFinal_20191025\SIGPv2\obj\x86\Debug\SIGPv2.FormReporte.resources
+E:\Proyecto\S.I.G.P. Versiones Funcionando\SIGPvFinal_20191025\SIGPv2\obj\x86\Debug\SIGPv2.FormUsuarios.resources
+E:\Proyecto\S.I.G.P. Versiones Funcionando\SIGPvFinal_20191025\SIGPv2\obj\x86\Debug\SIGPv2.Resources.resources
+E:\Proyecto\S.I.G.P. Versiones Funcionando\SIGPvFinal_20191025\SIGPv2\obj\x86\Debug\SIGPv2.FormReporteGral.resources
+E:\Proyecto\S.I.G.P. Versiones Funcionando\SIGPvFinal_20191025\SIGPv2\obj\x86\Debug\SIGPv2.vbproj.GenerateResource.Cache
+C:\Users\bandicoot\Desktop\SIGPvFinal_20191025\SIGPv2\obj\x86\Debug\SIGPv2.exe
+C:\Users\bandicoot\Desktop\SIGPvFinal_20191025\SIGPv2\obj\x86\Debug\SIGPv2.xml
+C:\Users\bandicoot\Desktop\SIGPvFinal_20191025\SIGPv2\obj\x86\Debug\SIGPv2.pdb
+C:\Users\bandicoot\Desktop\SIGPvFinal_20191025\SIGPv2\bin\Debug\SIGPv2.exe
+C:\Users\bandicoot\Desktop\SIGPvFinal_20191025\SIGPv2\bin\Debug\SIGPv2.pdb
+C:\Users\bandicoot\Desktop\SIGPvFinal_20191025\SIGPv2\bin\Debug\SIGPv2.xml
+C:\Users\bandicoot\Desktop\SIGPvFinal_20191025\SIGPv2\obj\x86\Debug\SIGPv2.FormAbrirRelevamiento.resources
+C:\Users\bandicoot\Desktop\SIGPvFinal_20191025\SIGPv2\obj\x86\Debug\SIGPv2.FormBuscarMapa.resources
+C:\Users\bandicoot\Desktop\SIGPvFinal_20191025\SIGPv2\obj\x86\Debug\SIGPv2.FormCalculos.resources
+C:\Users\bandicoot\Desktop\SIGPvFinal_20191025\SIGPv2\obj\x86\Debug\SIGPv2.FormConsolaGeneral.resources
+C:\Users\bandicoot\Desktop\SIGPvFinal_20191025\SIGPv2\obj\x86\Debug\SIGPv2.FormCuestionarioLugaresDeTrabajo.resources
+C:\Users\bandicoot\Desktop\SIGPvFinal_20191025\SIGPv2\obj\x86\Debug\SIGPv2.FormCuestionarios.resources
+C:\Users\bandicoot\Desktop\SIGPvFinal_20191025\SIGPv2\obj\x86\Debug\SIGPv2.FormEmpresa.resources
+C:\Users\bandicoot\Desktop\SIGPvFinal_20191025\SIGPv2\obj\x86\Debug\SIGPv2.FormGestionPrevencionistas.resources
+C:\Users\bandicoot\Desktop\SIGPvFinal_20191025\SIGPv2\obj\x86\Debug\SIGPv2.FormInspecciones.resources
+C:\Users\bandicoot\Desktop\SIGPvFinal_20191025\SIGPv2\obj\x86\Debug\SIGPv2.FormInventario.resources
+C:\Users\bandicoot\Desktop\SIGPvFinal_20191025\SIGPv2\obj\x86\Debug\SIGPv2.FormLogin.resources
+C:\Users\bandicoot\Desktop\SIGPvFinal_20191025\SIGPv2\obj\x86\Debug\SIGPv2.FormMapas.resources
+C:\Users\bandicoot\Desktop\SIGPvFinal_20191025\SIGPv2\obj\x86\Debug\SIGPv2.FormNavegador.resources
+C:\Users\bandicoot\Desktop\SIGPvFinal_20191025\SIGPv2\obj\x86\Debug\SIGPv2.FormNuevoContrato.resources
+C:\Users\bandicoot\Desktop\SIGPvFinal_20191025\SIGPv2\obj\x86\Debug\SIGPv2.FormNuevoRelevamiento.resources
+C:\Users\bandicoot\Desktop\SIGPvFinal_20191025\SIGPv2\obj\x86\Debug\SIGPv2.FormNuevoTrabajador.resources
+C:\Users\bandicoot\Desktop\SIGPvFinal_20191025\SIGPv2\obj\x86\Debug\SIGPv2.FormPlanDeContingencia.resources
+C:\Users\bandicoot\Desktop\SIGPvFinal_20191025\SIGPv2\obj\x86\Debug\SIGPv2.FormPrincipal.resources
+C:\Users\bandicoot\Desktop\SIGPvFinal_20191025\SIGPv2\obj\x86\Debug\SIGPv2.FormReporte.resources
+C:\Users\bandicoot\Desktop\SIGPvFinal_20191025\SIGPv2\obj\x86\Debug\SIGPv2.FormUsuarios.resources
+C:\Users\bandicoot\Desktop\SIGPvFinal_20191025\SIGPv2\obj\x86\Debug\SIGPv2.Resources.resources
+C:\Users\bandicoot\Desktop\SIGPvFinal_20191025\SIGPv2\obj\x86\Debug\SIGPv2.FormReporteGral.resources
+C:\Users\bandicoot\Desktop\SIGPvFinal_20191025\SIGPv2\obj\x86\Debug\SIGPv2.vbproj.GenerateResource.Cache
