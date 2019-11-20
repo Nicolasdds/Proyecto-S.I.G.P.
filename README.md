@@ -23,7 +23,7 @@ mencionadas, propone el estudio y la implementación teórica de una empresa pro
 sistema S.I.G.P., el motor de Base de Datos Informix, Packet Tracer para el diseño de la infraestructura de redes, promoviendo el uso de sistemas operativos como Windows y Linux para que trabajen de manera conjunta.
 
 ### Powered by Hipercode-2019.
-Nicolás Díaz. (Programmer, DevOps & Team Leader).
-Gaston Machado (Programmer & Business Administrator).
-Paulo Bettinelli (Database Designer).
-Emilene Schol (Market researcher).
+-Nicolás Díaz. (Programmer, DevOps & Team Leader).
+-Gaston Machado (Programmer & Business Administrator).
+-Paulo Bettinelli (Database Designer).
+-Emilene Schol (Market researcher).
