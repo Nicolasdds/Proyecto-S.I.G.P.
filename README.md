@@ -22,4 +22,8 @@ mencionadas, propone el estudio y la implementación teórica de una empresa pro
 >Se implementa el lenguaje de programación Visual Basic .NET para la realización del
 sistema S.I.G.P., el motor de Base de Datos Informix, Packet Tracer para el diseño de la infraestructura de redes, promoviendo el uso de sistemas operativos como Windows y Linux para que trabajen de manera conjunta.
 
-
+### Powered by Hipercode-2019.
+Nicolás Díaz. (Programmer, DevOps & Team Leader).
+Gaston Machado (Programmer & Business Administrator).
+Paulo Bettinelli (Database Designer).
+Emilene Schol (Market researcher).
