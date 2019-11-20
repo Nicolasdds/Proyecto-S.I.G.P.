@@ -1,8 +1,8 @@
 <p align="center"><img src="https://i.imgur.com/ITgTRHU.png" width="350"></p>
 <H3 align="center"><b>👷‍♂️ <br/>S.I.G.P</H1>
-Un [proyecto](http://www.iticetp.edu.uy/2/index.php/2-uncategorised/31-pautas-proyecto-3-emt-informatica-v2017) increíble, propuesto por el Instituto Tecnológico de Informática [ITI](http://www.iticetp.edu.uy/2/index.php) en Uruguay.
+Un [proyecto](http://www.iticetp.edu.uy/2/index.php/2-uncategorised/31-pautas-proyecto-3-emt-informatica-v2017) increíble, propuesto por el Instituto Tecnológico de Informática [ITI](https://www.iticetp.edu.uy/2/index.php) en Uruguay.
   
-  [Simple, fast routing engine](https://laravel.com/docs/routing).
+  [Simple, fast routing engine](http://laravel.com/docs/routing).
 
 ##Aspectos Fundamentales.
 * Brindarle una solución informática integral al prevencionista.
