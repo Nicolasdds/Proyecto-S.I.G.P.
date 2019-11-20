@@ -26,4 +26,4 @@ sistema S.I.G.P., el motor de Base de Datos Informix, Packet Tracer para el dise
 - Nicolás Díaz. (Programmer, DevOps & Team Leader).
 - Gaston Machado (Programmer & Business Administrator).
 - Paulo Bettinelli (Database Designer).
-- Emilene Schol (Market researcher).
+- Emilene Schol (Market Researcher).
